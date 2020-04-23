@@ -14,3 +14,11 @@ La traduction de l'interface a été effectuée par Monologix.
 Pour m'aider à proposer une traduction encore meilleure, vous pouvez me contacter par mail (monologixfr@gmail.com) ou par discord https://discord.gg/XEf2zUz.
 
 By KéKéCoRe! / Monologix
+
+Version 0.1 : 
+- Traduction de l'interface de base affichée directement à l'utilisateur
+- Correction de la traduction des tutoriels effectués par KéKéCoRe!
+
+Version 0.2 :
+- Traduction de nouveaux éléments d'interface
+- Correction de plusieurs erreurs de traduction
