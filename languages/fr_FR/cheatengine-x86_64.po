@@ -12987,17 +12987,17 @@ msgstr "Chaîne de caractères"
 #: tfrmstringpointerscan.edtalignsize.text
 msgctxt "TFRMSTRINGPOINTERSCAN.EDTALIGNSIZE.TEXT"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: tfrmstringpointerscan.edtmaxlevel.text
 msgctxt "TFRMSTRINGPOINTERSCAN.EDTMAXLEVEL.TEXT"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: tfrmstringpointerscan.edtstructsize.text
 msgctxt "TFRMSTRINGPOINTERSCAN.EDTSTRUCTSIZE.TEXT"
 msgid "4096"
-msgstr ""
+msgstr "4096"
 
 #: tfrmstringpointerscan.lblalign.caption
 msgid "Alignsize"
@@ -13059,7 +13059,7 @@ msgstr "Fichier"
 #: tfrmstringpointerscan.menuitem4.caption
 msgctxt "TFRMSTRINGPOINTERSCAN.MENUITEM4.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstringpointerscan.menuitem5.caption
 msgctxt "tfrmstringpointerscan.menuitem5.caption"
@@ -13068,7 +13068,7 @@ msgstr "Rescan"
 
 #: tfrmstringpointerscan.menuitem6.caption
 msgid "Filter pointerlist"
-msgstr ""
+msgstr "Filtrer la liste des Pointeurs"
 
 #: tfrmstringpointerscan.menuitem7.caption
 msgctxt "TFRMSTRINGPOINTERSCAN.MENUITEM7.CAPTION"
@@ -13150,7 +13150,7 @@ msgstr ""
 #: tfrmstructures.caption
 msgctxt "TFRMSTRUCTURES.CAPTION"
 msgid "Memory dissect"
-msgstr ""
+msgstr "Dissection de la mémoire"
 
 #: tfrmstructures2.addextraaddress1.caption
 msgid "Add extra address"
@@ -13159,15 +13159,15 @@ msgstr ""
 #: tfrmstructures2.caption
 msgctxt "TFRMSTRUCTURES2.CAPTION"
 msgid "Structure dissect"
-msgstr ""
+msgstr "Disséquer la Structure"
 
 #: tfrmstructures2.definenewstructure1.caption
 msgid "Define new structure"
-msgstr ""
+msgstr "Définir une nouvelle structure"
 
 #: tfrmstructures2.deletecurrentstructure1.caption
 msgid "Delete structure"
-msgstr ""
+msgstr "Supprimer la structure"
 
 #: tfrmstructures2.file1.caption
 msgctxt "TFRMSTRUCTURES2.FILE1.CAPTION"
@@ -13176,7 +13176,7 @@ msgstr "Fichier"
 
 #: tfrmstructures2.headercontrol1.sections[0].text
 msgid "Offset-description"
-msgstr ""
+msgstr "Description de l'Offset"
 
 #: tfrmstructures2.menuitem2.caption
 msgctxt "TFRMSTRUCTURES2.MENUITEM2.CAPTION"
@@ -13211,7 +13211,7 @@ msgstr ""
 
 #: tfrmstructures2.miaddchildelement.caption
 msgid "Add child element"
-msgstr ""
+msgstr "Ajouter un élément Enfant"
 
 #: tfrmstructures2.miaddelement.caption
 msgid "Add element"
@@ -13247,7 +13247,7 @@ msgstr ""
 #: tfrmstructures2.miback.caption
 msgctxt "tfrmstructures2.miback.caption"
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: tfrmstructures2.mibrowseaddress.caption
 msgid "Memory browse this address"
@@ -13264,11 +13264,11 @@ msgstr "Options"
 
 #: tfrmstructures2.michangeelement.caption
 msgid "Change element"
-msgstr ""
+msgstr "Changer d'élément"
 
 #: tfrmstructures2.michangetype.caption
 msgid "Change Type"
-msgstr ""
+msgstr "Changer le Type"
 
 #: tfrmstructures2.michangetype2byte.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPE2BYTE.CAPTION"
@@ -13294,12 +13294,12 @@ msgstr ""
 
 #: tfrmstructures2.michangetypearrayofbyte.caption
 msgid "Array Of Byte"
-msgstr ""
+msgstr "Tableau de Byte"
 
 #: tfrmstructures2.michangetypebyte.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPEBYTE.CAPTION"
 msgid "Byte"
-msgstr ""
+msgstr "Byte"
 
 #: tfrmstructures2.michangetypebytehex.caption
 msgid "Byte (Hex)"
@@ -13308,7 +13308,7 @@ msgstr ""
 #: tfrmstructures2.michangetypedouble.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPEDOUBLE.CAPTION"
 msgid "Double"
-msgstr ""
+msgstr "Double"
 
 #: tfrmstructures2.michangetypefloat.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPEFLOAT.CAPTION"
@@ -13318,7 +13318,7 @@ msgstr "Nombre"
 #: tfrmstructures2.michangetypepointer.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPEPOINTER.CAPTION"
 msgid "Pointer"
-msgstr ""
+msgstr "Pointeur"
 
 #: tfrmstructures2.michangetypestring.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPESTRING.CAPTION"
@@ -13328,7 +13328,7 @@ msgstr "Chaîne de caractères"
 #: tfrmstructures2.michangetypeunicode.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGETYPEUNICODE.CAPTION"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: tfrmstructures2.michangevalue.caption
 msgctxt "TFRMSTRUCTURES2.MICHANGEVALUE.CAPTION"
@@ -13341,7 +13341,7 @@ msgstr "Supprimer toutes les structures"
 
 #: tfrmstructures2.micommands.caption
 msgid "Structure Options"
-msgstr "options de Structures"
+msgstr "Options de Structures"
 
 #: tfrmstructures2.micommonalityscan.caption
 msgid "Scan for commonalities using the structure compare window"
@@ -13349,7 +13349,7 @@ msgstr ""
 
 #: tfrmstructures2.micopy.caption
 msgid "Copy element(s)"
-msgstr ""
+msgstr "Copier les éléments"
 
 #: tfrmstructures2.midefaulthexadecimal.caption
 msgid "New integer types default to hexadecimal"
@@ -13390,7 +13390,7 @@ msgstr ""
 
 #: tfrmstructures2.mifindrelations.caption
 msgid "Find relations"
-msgstr ""
+msgstr "Trouver les relations"
 
 #: tfrmstructures2.mifullupgrade.caption
 msgid "Upgrade this child to full structure"
@@ -13408,7 +13408,7 @@ msgstr "Nouvelle fenêtre"
 
 #: tfrmstructures2.mipaste.caption
 msgid "Paste elements(s)"
-msgstr ""
+msgstr "Coller les éléments"
 
 #: tfrmstructures2.mirecalculateaddress.caption
 msgctxt "TFRMSTRUCTURES2.MIRECALCULATEADDRESS.CAPTION"
@@ -13458,27 +13458,27 @@ msgstr ""
 #: tfrmstructures2.n3.caption
 msgctxt "TFRMSTRUCTURES2.N3.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstructures2.n4.caption
 msgctxt "TFRMSTRUCTURES2.N4.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstructures2.n5.caption
 msgctxt "TFRMSTRUCTURES2.N5.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstructures2.n7.caption
 msgctxt "TFRMSTRUCTURES2.N7.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstructures2.n8.caption
 msgctxt "TFRMSTRUCTURES2.N8.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tfrmstructures2.open1.caption
 msgid "Import"
@@ -13487,7 +13487,7 @@ msgstr "Importer"
 #: tfrmstructures2.renamestructure1.caption
 msgctxt "TFRMSTRUCTURES2.RENAMESTRUCTURE1.CAPTION"
 msgid "Rename structure"
-msgstr ""
+msgstr "Renommer la structure"
 
 #: tfrmstructures2.save1.caption
 msgid "Export current structure"
@@ -13500,7 +13500,7 @@ msgstr ""
 #: tfrmstructures2elementinfo.button1.caption
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tfrmstructures2elementinfo.button2.caption
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.BUTTON2.CAPTION"
@@ -13532,22 +13532,22 @@ msgstr ""
 #: tfrmstructures2elementinfo.cbtype.text
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.CBTYPE.TEXT"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 Bytes"
 
 #: tfrmstructures2elementinfo.edtbytesize.text
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.EDTBYTESIZE.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmstructures2elementinfo.edtchildstart.text
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.EDTCHILDSTART.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmstructures2elementinfo.edtoffset.text
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.EDTOFFSET.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmstructures2elementinfo.label1.caption
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.LABEL1.CAPTION"
@@ -13562,7 +13562,7 @@ msgstr ""
 #: tfrmstructures2elementinfo.label3.caption
 msgctxt "tfrmstructures2elementinfo.label3.caption"
 msgid "Offset"
-msgstr ""
+msgstr "Offset"
 
 #: tfrmstructures2elementinfo.label4.caption
 msgctxt "TFRMSTRUCTURES2ELEMENTINFO.LABEL4.CAPTION"
@@ -13584,7 +13584,7 @@ msgstr ""
 #: tfrmstructuresaddelement.button1.caption
 msgctxt "TFRMSTRUCTURESADDELEMENT.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tfrmstructuresaddelement.button2.caption
 msgctxt "TFRMSTRUCTURESADDELEMENT.BUTTON2.CAPTION"
@@ -13593,30 +13593,30 @@ msgstr "Annuler"
 
 #: tfrmstructuresaddelement.caption
 msgid "Add Element"
-msgstr ""
+msgstr "Ajouter un élément"
 
 #: tfrmstructuresaddelement.cbpointerto.caption
 msgid "pointer to:"
-msgstr ""
+msgstr "Pointe vers :"
 
 #: tfrmstructuresaddelement.edtbytesize.text
 msgctxt "TFRMSTRUCTURESADDELEMENT.EDTBYTESIZE.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmstructuresaddelement.edtdescription.text
 msgctxt "TFRMSTRUCTURESADDELEMENT.EDTDESCRIPTION.TEXT"
 msgid "undefined"
-msgstr ""
+msgstr "indéfini"
 
 #: tfrmstructuresaddelement.edtoffset.text
 msgctxt "TFRMSTRUCTURESADDELEMENT.EDTOFFSET.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmstructuresaddelement.label1.caption
 msgid "description"
-msgstr ""
+msgstr "Description"
 
 #: tfrmstructuresaddelement.label2.caption
 msgctxt "TFRMSTRUCTURESADDELEMENT.LABEL2.CAPTION"
@@ -13626,12 +13626,12 @@ msgstr ""
 #: tfrmstructuresaddelement.label3.caption
 msgctxt "TFRMSTRUCTURESADDELEMENT.LABEL3.CAPTION"
 msgid "Offset"
-msgstr ""
+msgstr Offset""
 
 #: tfrmstructuresconfig.button1.caption
 msgctxt "TFRMSTRUCTURESCONFIG.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tfrmstructuresconfig.button2.caption
 msgctxt "TFRMSTRUCTURESCONFIG.BUTTON2.CAPTION"
@@ -13691,11 +13691,11 @@ msgstr ""
 #: tfrmstructuresconfig.edtmaxautoexpandlevel.text
 msgctxt "TFRMSTRUCTURESCONFIG.EDTMAXAUTOEXPANDLEVEL.TEXT"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: tfrmstructuresconfig.groupbox1.caption
 msgid "Colors"
-msgstr ""
+msgstr "Couleurs"
 
 #: tfrmstructuresconfig.groupbox2.caption
 msgid "Default options for new structures"
@@ -13784,11 +13784,11 @@ msgstr ""
 
 #: tfrmsymboleventtakinglong.lbltype.caption
 msgid "Symbol:"
-msgstr ""
+msgstr "Symbole :"
 
 #: tfrmsymbolhandler.button1.caption
 msgid "Add symbol"
-msgstr ""
+msgstr "Ajouter un symbole"
 
 #: tfrmsymbolhandler.caption
 msgid "Symbol config"
@@ -13884,7 +13884,7 @@ msgstr "Annuler"
 #: tfrmtracerconfig.btnok.caption
 msgctxt "TFRMTRACERCONFIG.BTNOK.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tfrmtracerconfig.caption
 msgid "Break and Trace config"
@@ -13981,7 +13981,7 @@ msgstr ""
 
 #: tfrmultimap.button6.caption
 msgid "Reset"
-msgstr ""
+msgstr "Réinitialiser"
 
 #: tfrmultimap.button6.hint
 msgid "If you lost track of what happened, use this. It will set execution count back to 0 of all the branches it has found"
@@ -14027,7 +14027,7 @@ msgstr ""
 #: tfrmultimap.edit1.text
 msgctxt "TFRMULTIMAP.EDIT1.TEXT"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: tfrmultimap.edtbufsize.text
 msgid "4194304"
@@ -14040,7 +14040,7 @@ msgstr ""
 #: tfrmultimap.edtworkercount.text
 msgctxt "TFRMULTIMAP.EDTWORKERCOUNT.TEXT"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: tfrmultimap.label1.caption
 msgid "Worker threads"
@@ -14053,7 +14053,7 @@ msgstr ""
 #: tfrmultimap.label3.caption
 msgctxt "TFRMULTIMAP.LABEL3.CAPTION"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tfrmultimap.label4.caption
 msgctxt "TFRMULTIMAP.LABEL4.CAPTION"
@@ -14083,7 +14083,7 @@ msgstr ""
 #: tfrmultimap.listview1.columns[2].caption
 msgctxt "TFRMULTIMAP.LISTVIEW1.COLUMNS[2].CAPTION"
 msgid "Count"
-msgstr ""
+msgstr "Compte"
 
 #: tfrmultimap.menuitem1.caption
 msgid "Add selection to code list"
@@ -14139,7 +14139,7 @@ msgstr "Parcourir les régions de mémoire"
 #: tfrmwatchlist.miadditem.caption
 msgctxt "TFRMWATCHLIST.MIADDITEM.CAPTION"
 msgid "Add Item"
-msgstr ""
+msgstr "Ajouter un élément"
 
 #: tfrmwatchlist.micopytoclipboard.caption
 msgid "Copy expression(s) to clipboard"
@@ -14147,7 +14147,7 @@ msgstr ""
 
 #: tfrmwatchlist.micopytoclipboardex.caption
 msgid "Copy expression(s) and value(s) to clipboard"
-msgstr ""
+msgstr "Copier les expressions et valeurs"
 
 #: tfrmwatchlist.mideleteitems.caption
 msgid "Delete Item(s)"
@@ -14159,7 +14159,7 @@ msgstr "Modifier l'objet"
 
 #: tfrmwatchlist.mipastefromclipboard.caption
 msgid "Paste expression(s) from clipboard"
-msgstr ""
+msgstr "Coller les expressions depuis le Presse-Papier"
 
 #: tfrmwatchlist.mirefresh.caption
 msgctxt "TFRMWATCHLIST.MIREFRESH.CAPTION"
@@ -14174,7 +14174,7 @@ msgstr "Annuler"
 #: tfrmwatchlistaddentry.btnok.caption
 msgctxt "TFRMWATCHLISTADDENTRY.BTNOK.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tfrmwatchlistaddentry.caption
 msgid "Add watcher entry"
@@ -14182,7 +14182,7 @@ msgstr ""
 
 #: tfrmwatchlistaddentry.edtexpression.texthint
 msgid "Expression"
-msgstr ""
+msgstr "Expression"
 
 #: tfrmwatchlistaddentry.rgtype.caption
 msgctxt "TFRMWATCHLISTADDENTRY.RGTYPE.CAPTION"
@@ -14192,12 +14192,12 @@ msgstr "Type"
 #: thotkeyform.bitbtn1.caption
 msgctxt "THOTKEYFORM.BITBTN1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: thotkeyform.btnapply.caption
 msgctxt "THOTKEYFORM.BTNAPPLY.CAPTION"
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 #: thotkeyform.btncancel.caption
 msgctxt "THOTKEYFORM.BTNCANCEL.CAPTION"
@@ -14206,7 +14206,7 @@ msgstr "Annuler"
 
 #: thotkeyform.btncreatehotkey.caption
 msgid "Create hotkey"
-msgstr ""
+msgstr "Créer un raccourci"
 
 #: thotkeyform.btnedithotkey.caption
 msgid "Edit Hotkey"
@@ -14215,7 +14215,7 @@ msgstr "Modifier un raccourci clavier"
 #: thotkeyform.button2.caption
 msgctxt "THOTKEYFORM.BUTTON2.CAPTION"
 msgid "Clear"
-msgstr ""
+msgstr "Vider"
 
 #: thotkeyform.caption
 msgid "Set/Change hotkey"
@@ -14224,7 +14224,7 @@ msgstr "Assigner/Changer un raccourci clavier"
 #: thotkeyform.cbforceenglishactivate.caption
 msgctxt "thotkeyform.cbforceenglishactivate.caption"
 msgid "Force English"
-msgstr ""
+msgstr "Forcer l'anglais"
 
 #: thotkeyform.cbforceenglishactivate.hint
 msgctxt "thotkeyform.cbforceenglishactivate.hint"
@@ -14295,7 +14295,7 @@ msgstr "Description"
 
 #: thotkeyform.miaddsound.caption
 msgid "Add sounds"
-msgstr ""
+msgstr "Ajouter des sons"
 
 #: thotkeyform.midelete.caption
 msgctxt "THOTKEYFORM.MIDELETE.CAPTION"
@@ -14890,7 +14890,7 @@ msgstr ""
 #: tmainform.midisplay8byte.caption
 msgctxt "TMAINFORM.MIDISPLAY8BYTE.CAPTION"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 Bytes"
 
 #: tmainform.midisplaybyte.caption
 msgctxt "TMAINFORM.MIDISPLAYBYTE.CAPTION"
@@ -15047,7 +15047,7 @@ msgstr "Sauvegarder les résultats de Scan actuels"
 
 #: tmainform.miscandirtyonly.caption
 msgid "Scan changed regions only"
-msgstr ""
+msgstr "Scanner uniquement les régions modifiées"
 
 #: tmainform.miscanpagedonly.caption
 msgid "Scan paged (physical) memory only"
@@ -15179,7 +15179,7 @@ msgstr "Coller"
 #: tmainform.plugins1.caption
 msgctxt "TMAINFORM.PLUGINS1.CAPTION"
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: tmainform.plugins2.caption
 msgid "P&lugins"
@@ -15444,16 +15444,16 @@ msgstr ""
 
 #: tmemorybrowser.dispbytes.caption
 msgid "Byte hex"
-msgstr ""
+msgstr "Byte Hex"
 
 #: tmemorybrowser.dispchar.caption
 msgid "Byte decimal"
-msgstr ""
+msgstr "Byte Décimal"
 
 #: tmemorybrowser.dispdouble.caption
 msgctxt "TMEMORYBROWSER.DISPDOUBLE.CAPTION"
 msgid "Double"
-msgstr ""
+msgstr "Double"
 
 #: tmemorybrowser.dispdwords.caption
 msgid "4 Byte hex"
@@ -15482,7 +15482,7 @@ msgstr "8 Byte Hex"
 
 #: tmemorybrowser.dispshorts.caption
 msgid "2 Byte decimal"
-msgstr ""
+msgstr "2 Byte Décimal"
 
 #: tmemorybrowser.dispwords.caption
 msgid "2 Byte hex"
@@ -15504,7 +15504,7 @@ msgstr ""
 #: tmemorybrowser.driverlist1.caption
 msgctxt "TMEMORYBROWSER.DRIVERLIST1.CAPTION"
 msgid "Driver list"
-msgstr ""
+msgstr "Liste des pilotes"
 
 #: tmemorybrowser.dslabel.caption
 msgid "DS 0000"
@@ -15587,12 +15587,12 @@ msgstr "Trouver quelles adresses accèdent à cette instruction"
 #: tmemorybrowser.findstaticpointers1.caption
 msgctxt "TMEMORYBROWSER.FINDSTATICPOINTERS1.CAPTION"
 msgid "Find static addresses"
-msgstr ""
+msgstr "Trouver l'adresse statique"
 
 #: tmemorybrowser.follow1.caption
 msgctxt "TMEMORYBROWSER.FOLLOW1.CAPTION"
 msgid "Follow"
-msgstr ""
+msgstr "Suivre"
 
 #: tmemorybrowser.fslabel.caption
 msgid "FS 0000"
@@ -15604,11 +15604,11 @@ msgstr ""
 
 #: tmemorybrowser.getaddress1.caption
 msgid "Get address"
-msgstr ""
+msgstr "Obtenir l'adresse"
 
 #: tmemorybrowser.goto1.caption
 msgid "Goto address"
-msgstr ""
+msgstr "Aller vers l'adresse"
 
 #: tmemorybrowser.gotoaddress1.caption
 msgid "Go to address"
@@ -15633,7 +15633,7 @@ msgstr "Injection DLL"
 #: tmemorybrowser.jumplines1.caption
 msgctxt "TMEMORYBROWSER.JUMPLINES1.CAPTION"
 msgid "Jumplines"
-msgstr ""
+msgstr "Sauts de ligne"
 
 #: tmemorybrowser.kernelmodesymbols1.caption
 msgid "Kernelmode symbols"
@@ -15646,7 +15646,7 @@ msgstr ""
 #: tmemorybrowser.label14.caption
 msgctxt "TMEMORYBROWSER.LABEL14.CAPTION"
 msgid "Registers:"
-msgstr ""
+msgstr "Registres :"
 
 #: tmemorybrowser.label15.caption
 msgctxt "TMEMORYBROWSER.LABEL15.CAPTION"
@@ -15659,7 +15659,7 @@ msgstr ""
 
 #: tmemorybrowser.loadmemolryregion1.caption
 msgid "Load memory region"
-msgstr ""
+msgstr "Charger la région de la mémoire"
 
 #: tmemorybrowser.loadsymbolfile1.caption
 msgid "Load symbol file"
@@ -15765,7 +15765,7 @@ msgstr ""
 
 #: tmemorybrowser.menuitem24.caption
 msgid "Goto bookmark"
-msgstr ""
+msgstr "Aller au Marque-Page"
 
 #: tmemorybrowser.menuitem25.caption
 msgid "User write history"
@@ -15834,7 +15834,7 @@ msgstr ""
 
 #: tmemorybrowser.miaddtothecodelist.caption
 msgid "Add to the code list"
-msgstr ""
+msgstr "Ajouter à la liste de codes"
 
 #: tmemorybrowser.mibinutils.caption
 msgid "BinUtils"
@@ -15843,7 +15843,7 @@ msgstr ""
 #: tmemorybrowser.mibinutilsselect.caption
 msgctxt "TMEMORYBROWSER.MIBINUTILSSELECT.CAPTION"
 msgid "None"
-msgstr ""
+msgstr "Aucun(e)"
 
 #: tmemorybrowser.mibreakonexceptions.caption
 msgid "Break on unexpected exceptions"
@@ -15852,15 +15852,15 @@ msgstr ""
 #: tmemorybrowser.michangeprotectionr.caption
 msgctxt "TMEMORYBROWSER.MICHANGEPROTECTIONR.CAPTION"
 msgid "Read"
-msgstr ""
+msgstr "Lire"
 
 #: tmemorybrowser.michangeprotectionre.caption
 msgid "Read Execute"
-msgstr ""
+msgstr "Lire et éxécuter"
 
 #: tmemorybrowser.michangeprotectionrw.caption
 msgid "Read Write"
-msgstr ""
+msgstr "Lire et écrire"
 
 #: tmemorybrowser.michangeprotectionrwe.caption
 msgid "Read Write Execute"
@@ -15877,12 +15877,12 @@ msgstr ""
 
 #: tmemorybrowser.micopybytesonly.caption
 msgid "Bytes only (no address)"
-msgstr ""
+msgstr "Bytes seulement (pas d'adresse)"
 
 #: tmemorybrowser.midebugbreak.caption
 msgctxt "TMEMORYBROWSER.MIDEBUGBREAK.CAPTION"
 msgid "Break"
-msgstr ""
+msgstr "Pause"
 
 #: tmemorybrowser.midebugevents.caption
 msgid "Debug events"
@@ -15895,7 +15895,7 @@ msgstr ""
 #: tmemorybrowser.midebugrun.caption
 msgctxt "TMEMORYBROWSER.MIDEBUGRUN.CAPTION"
 msgid "Run"
-msgstr ""
+msgstr "Lancer"
 
 #: tmemorybrowser.midebugruntill.caption
 msgid "Run till..."
@@ -15903,7 +15903,7 @@ msgstr ""
 
 #: tmemorybrowser.midebugsetaddress.caption
 msgid "Set Address"
-msgstr ""
+msgstr "Définir une adresse"
 
 #: tmemorybrowser.midebugstep.caption
 msgid "Step"
@@ -15937,7 +15937,7 @@ msgstr ""
 
 #: tmemorybrowser.midisassemblyautodetect.caption
 msgid "Autodetect"
-msgstr ""
+msgstr "Détection automatique"
 
 #: tmemorybrowser.midissectdata.caption
 msgid "Dissect data/structures old"
@@ -15976,67 +15976,67 @@ msgstr "Trouver qui écrit à cette adresse"
 
 #: tmemorybrowser.mignuassembler.caption
 msgid "GNU Assembler"
-msgstr ""
+msgstr "Assembleur GNU"
 
 #: tmemorybrowser.migotobookmark0.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK0.CAPTION"
 msgid "Bookmark 0"
-msgstr ""
+msgstr "Marque-Page 0"
 
 #: tmemorybrowser.migotobookmark1.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK1.CAPTION"
 msgid "Bookmark 1"
-msgstr ""
+msgstr "Marque-Page 1"
 
 #: tmemorybrowser.migotobookmark2.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK2.CAPTION"
 msgid "Bookmark 2"
-msgstr ""
+msgstr "Marque-Page 2"
 
 #: tmemorybrowser.migotobookmark3.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK3.CAPTION"
 msgid "Bookmark 3"
-msgstr ""
+msgstr "Marque-Page 3"
 
 #: tmemorybrowser.migotobookmark4.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK4.CAPTION"
 msgid "Bookmark 4"
-msgstr ""
+msgstr "Marque-Page 4"
 
 #: tmemorybrowser.migotobookmark5.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK5.CAPTION"
 msgid "Bookmark 5"
-msgstr ""
+msgstr "Marque-Page 5"
 
 #: tmemorybrowser.migotobookmark6.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK6.CAPTION"
 msgid "Bookmark 6"
-msgstr ""
+msgstr "Marque-Page 6"
 
 #: tmemorybrowser.migotobookmark7.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK7.CAPTION"
 msgid "Bookmark 7"
-msgstr ""
+msgstr "Marque-Page 7"
 
 #: tmemorybrowser.migotobookmark8.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK8.CAPTION"
 msgid "Bookmark 8"
-msgstr ""
+msgstr "Marque-Page 8"
 
 #: tmemorybrowser.migotobookmark9.caption
 msgctxt "TMEMORYBROWSER.MIGOTOBOOKMARK9.CAPTION"
 msgid "Bookmark 9"
-msgstr ""
+msgstr "Marque-Page 9"
 
 #: tmemorybrowser.mihvback.caption
 msgctxt "TMEMORYBROWSER.MIHVBACK.CAPTION"
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: tmemorybrowser.mihvfollow.caption
 msgctxt "tmemorybrowser.mihvfollow.caption"
 msgid "Follow"
-msgstr ""
+msgstr "Suivre"
 
 #: tmemorybrowser.milock.caption
 msgctxt "TMEMORYBROWSER.MILOCK.CAPTION"
@@ -16050,7 +16050,7 @@ msgstr ""
 #: tmemorybrowser.miluaengine.caption
 msgctxt "TMEMORYBROWSER.MILUAENGINE.CAPTION"
 msgid "Lua Engine"
-msgstr ""
+msgstr "Moteur Lua"
 
 #: tmemorybrowser.mipaging.caption
 msgctxt "TMEMORYBROWSER.MIPAGING.CAPTION"
@@ -16065,12 +16065,12 @@ msgstr ""
 #: tmemorybrowser.mireferencedfunctions.caption
 msgctxt "TMEMORYBROWSER.MIREFERENCEDFUNCTIONS.CAPTION"
 msgid "Referenced functions"
-msgstr ""
+msgstr "Fonctions référencées"
 
 #: tmemorybrowser.mireplacewithnops.caption
 msgctxt "TMEMORYBROWSER.MIREPLACEWITHNOPS.CAPTION"
 msgid "Replace with code that does nothing"
-msgstr ""
+msgstr "Remplacer avec du code qui ne fait rien"
 
 #: tmemorybrowser.mirununhandled.caption
 msgid "Run Unhandled"
@@ -16078,7 +16078,7 @@ msgstr ""
 
 #: tmemorybrowser.miseperators.caption
 msgid "Seperators"
-msgstr ""
+msgstr "Séparateurs"
 
 #: tmemorybrowser.misepevery2bytes.caption
 msgctxt "TMEMORYBROWSER.MISEPEVERY2BYTES.CAPTION"
@@ -16098,69 +16098,69 @@ msgstr ""
 #: tmemorybrowser.misetbookmark0.caption
 msgctxt "tmemorybrowser.misetbookmark0.caption"
 msgid "Bookmark 0"
-msgstr ""
+msgstr "Marque-Page 0"
 
 #: tmemorybrowser.misetbookmark1.caption
 msgctxt "tmemorybrowser.misetbookmark1.caption"
 msgid "Bookmark 1"
-msgstr ""
+msgstr "Marque-Page 1"
 
 #: tmemorybrowser.misetbookmark2.caption
 msgctxt "tmemorybrowser.misetbookmark2.caption"
 msgid "Bookmark 2"
-msgstr ""
+msgstr "Marque-Page 2"
 
 #: tmemorybrowser.misetbookmark3.caption
 msgctxt "tmemorybrowser.misetbookmark3.caption"
 msgid "Bookmark 3"
-msgstr ""
+msgstr "Marque-Page 3"
 
 #: tmemorybrowser.misetbookmark4.caption
 msgctxt "tmemorybrowser.misetbookmark4.caption"
 msgid "Bookmark 4"
-msgstr ""
+msgstr "Marque-Page 4"
 
 #: tmemorybrowser.misetbookmark5.caption
 msgctxt "tmemorybrowser.misetbookmark5.caption"
 msgid "Bookmark 5"
-msgstr ""
+msgstr "Marque-Page 5"
 
 #: tmemorybrowser.misetbookmark6.caption
 msgctxt "tmemorybrowser.misetbookmark6.caption"
 msgid "Bookmark 6"
-msgstr ""
+msgstr "Marque-Page 6"
 
 #: tmemorybrowser.misetbookmark7.caption
 msgctxt "tmemorybrowser.misetbookmark7.caption"
 msgid "Bookmark 7"
-msgstr ""
+msgstr "Marque-Page 7"
 
 #: tmemorybrowser.misetbookmark8.caption
 msgctxt "tmemorybrowser.misetbookmark8.caption"
 msgid "Bookmark 8"
-msgstr ""
+msgstr "Marque-Page 8"
 
 #: tmemorybrowser.misetbookmark9.caption
 msgctxt "tmemorybrowser.misetbookmark9.caption"
 msgid "Bookmark 9"
-msgstr ""
+msgstr "Marque-Page 9"
 
 #: tmemorybrowser.mishowdifference.caption
 msgctxt "TMEMORYBROWSER.MISHOWDIFFERENCE.CAPTION"
 msgid "Show difference"
-msgstr ""
+msgstr "Afficher la différence"
 
 #: tmemorybrowser.mishowindisassembler.caption
 msgid "Show in disassembler"
-msgstr ""
+msgstr "Afficher dans le Désassembleur"
 
 #: tmemorybrowser.mishowinhexview.caption
 msgid "Show in hexview"
-msgstr ""
+msgstr "Afficher sous forme Hexadécimale"
 
 #: tmemorybrowser.mishowrelative.caption
 msgid "Show relative addresses"
-msgstr ""
+msgstr "Afficher les adresses relatives"
 
 #: tmemorybrowser.misvcopy.caption
 msgctxt "TMEMORYBROWSER.MISVCOPY.CAPTION"
@@ -16188,7 +16188,7 @@ msgstr ""
 #: tmemorybrowser.mitextpreferences.caption
 msgctxt "TMEMORYBROWSER.MITEXTPREFERENCES.CAPTION"
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: tmemorybrowser.mitogglebreakpoint.caption
 msgctxt "tmemorybrowser.mitogglebreakpoint.caption"
@@ -16207,16 +16207,16 @@ msgstr ""
 #: tmemorybrowser.miunexpectedexceptionbreakalways.caption
 msgctxt "TMEMORYBROWSER.MIUNEXPECTEDEXCEPTIONBREAKALWAYS.CAPTION"
 msgid "Always"
-msgstr ""
+msgstr "Toujours"
 
 #: tmemorybrowser.miunexpectedexceptionbreakifinregion.caption
 msgid "Only in specified regions"
-msgstr ""
+msgstr "Seulement dans les régions spécifiées"
 
 #: tmemorybrowser.miunexpectedexceptionbreaknever.caption
 msgctxt "TMEMORYBROWSER.MIUNEXPECTEDEXCEPTIONBREAKNEVER.CAPTION"
 msgid "Never"
-msgstr ""
+msgstr "Jamais"
 
 #: tmemorybrowser.miuserdefinedcomment.caption
 msgid "Set/Change comment"
@@ -16228,7 +16228,7 @@ msgstr ""
 
 #: tmemorybrowser.modulesonly1.caption
 msgid "Modules only"
-msgstr ""
+msgstr "Modules seulement"
 
 #: tmemorybrowser.n1.caption
 msgctxt "TMEMORYBROWSER.N1.CAPTION"
@@ -16278,47 +16278,47 @@ msgstr ""
 #: tmemorybrowser.n18.caption
 msgctxt "TMEMORYBROWSER.N18.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n19.caption
 msgctxt "TMEMORYBROWSER.N19.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n2.caption
 msgctxt "TMEMORYBROWSER.N2.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n3.caption
 msgctxt "TMEMORYBROWSER.N3.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n4.caption
 msgctxt "TMEMORYBROWSER.N4.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n5.caption
 msgctxt "TMEMORYBROWSER.N5.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n6.caption
 msgctxt "TMEMORYBROWSER.N6.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n7.caption
 msgctxt "TMEMORYBROWSER.N7.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.n8.caption
 msgctxt "TMEMORYBROWSER.N8.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tmemorybrowser.newwindow1.caption
 msgctxt "TMEMORYBROWSER.NEWWINDOW1.CAPTION"
@@ -16327,7 +16327,7 @@ msgstr "Nouvelle fenêtre"
 
 #: tmemorybrowser.nonsystemmodulesonly1.caption
 msgid "Non system modules only"
-msgstr ""
+msgstr "Seulement les modules non Système"
 
 #: tmemorybrowser.oflabel.caption
 msgid "OF 0"
@@ -16339,7 +16339,7 @@ msgstr ""
 
 #: tmemorybrowser.opendlldialog.title
 msgid "Select the module you want to inject"
-msgstr ""
+msgstr "Sélectionnez le module à injecter"
 
 #: tmemorybrowser.pastefromclipboard1.caption
 msgid "Paste from clipboard"
@@ -16352,7 +16352,7 @@ msgstr ""
 #: tmemorybrowser.plugins1.caption
 msgctxt "TMEMORYBROWSER.PLUGINS1.CAPTION"
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: tmemorybrowser.referencedstrings1.caption
 msgid "Referenced strings"
@@ -16373,7 +16373,7 @@ msgstr "Sauvegarder la région de mémoire"
 
 #: tmemorybrowser.sbshowfloats.caption
 msgid ">"
-msgstr ""
+msgstr ">"
 
 #: tmemorybrowser.scanforcodecaves1.caption
 msgid "Scan for code caves"
@@ -16398,11 +16398,11 @@ msgstr ""
 
 #: tmemorybrowser.sflabel.caption
 msgid "SF 0"
-msgstr ""
+msgstr "SF 0"
 
 #: tmemorybrowser.showjumplines1.caption
 msgid "Show jumplines"
-msgstr ""
+msgstr "Afficher les sauts de lignes"
 
 #: tmemorybrowser.showmoduleaddresses1.caption
 msgid "Show module addresses"
@@ -16414,7 +16414,7 @@ msgstr "Afficher les symboles"
 
 #: tmemorybrowser.showvaluesofstaticaddresses1.caption
 msgid "Show 'Comment' row"
-msgstr ""
+msgstr "Afficher la section 'Commentaires'"
 
 #: tmemorybrowser.sslabel.caption
 msgid "SS 0000"
@@ -16432,12 +16432,12 @@ msgstr ""
 
 #: tmemorybrowser.symbolhandler1.caption
 msgid "Userdefined symbols"
-msgstr ""
+msgstr "Symboles définis par l'utilisateur"
 
 #: tmemorybrowser.threadlist1.caption
 msgctxt "TMEMORYBROWSER.THREADLIST1.CAPTION"
 msgid "Threadlist"
-msgstr ""
+msgstr "Liste des fils"
 
 #: tmemorybrowser.view1.caption
 msgctxt "TMEMORYBROWSER.VIEW1.CAPTION"
@@ -16474,7 +16474,7 @@ msgstr "Liste des Processus"
 #: tprocesswindow.filter1.caption
 msgctxt "TPROCESSWINDOW.FILTER1.CAPTION"
 msgid "Filter"
-msgstr ""
+msgstr "Filtre"
 
 #: tprocesswindow.inputpidmanually1.caption
 msgid "Input PID manually"
@@ -16488,22 +16488,22 @@ msgstr "Fichier"
 #: tprocesswindow.menuitem2.caption
 msgctxt "TPROCESSWINDOW.MENUITEM2.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tprocesswindow.menuitem3.caption
 msgctxt "TPROCESSWINDOW.MENUITEM3.CAPTION"
 msgid "Process watcher"
-msgstr ""
+msgstr "Observateur de Processus"
 
 #: tprocesswindow.menuitem4.caption
 msgctxt "TPROCESSWINDOW.MENUITEM4.CAPTION"
 msgid "View"
-msgstr ""
+msgstr "View"
 
 #: tprocesswindow.menuitem5.caption
 msgctxt "TPROCESSWINDOW.MENUITEM5.CAPTION"
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: tprocesswindow.michangefont.caption
 msgid "Change font"
@@ -16521,7 +16521,7 @@ msgstr "Ouvrir un fichier"
 
 #: tprocesswindow.miownprocessesonly.caption
 msgid "Only show processes of the current user"
-msgstr ""
+msgstr "N'afficher que les Processus de l'utilisateur actuel"
 
 #: tprocesswindow.miprocesslistlong.caption
 msgid "Process List (Long)"
@@ -16533,17 +16533,17 @@ msgstr ""
 
 #: tprocesswindow.miskipsystemprocesses.caption
 msgid "Only show non-system processes"
-msgstr ""
+msgstr "N'afficher que les Processus qui ne sont pas du Système"
 
 #: tprocesswindow.n1.caption
 msgctxt "TPROCESSWINDOW.N1.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tprocesswindow.n2.caption
 msgctxt "TPROCESSWINDOW.N2.CAPTION"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: tprocesswindow.okbutton.caption
 msgctxt "TPROCESSWINDOW.OKBUTTON.CAPTION"
@@ -16552,7 +16552,7 @@ msgstr "Ouvrir"
 
 #: trainergenerator.rsaaaaw
 msgid "aaaaw :("
-msgstr ""
+msgstr "Ahhh :("
 
 #: trainergenerator.rsabout
 msgctxt "trainergenerator.rsabout"
@@ -16565,7 +16565,7 @@ msgstr ""
 
 #: trainergenerator.rsareyousure
 msgid "Are you sure?"
-msgstr ""
+msgstr "Etes-vous sur ?"
 
 #: trainergenerator.rsautogenwarningpart1
 msgid "This is autogenerated code. Changing code in this block will"
@@ -16577,24 +16577,24 @@ msgstr ""
 
 #: trainergenerator.rsbutallowdecrease
 msgid "but allow decrease"
-msgstr ""
+msgstr "Mais autoriser l'augmentation"
 
 #: trainergenerator.rsbutallowincrease
 msgid "but allow increase"
-msgstr ""
+msgstr "Mais autoriser la diminution"
 
 #: trainergenerator.rsby
 msgid "by"
-msgstr ""
+msgstr "par"
 
 #: trainergenerator.rscheatentries
 msgid "Cheat Entries"
-msgstr ""
+msgstr "Entrées de triche"
 
 #: trainergenerator.rsclose
 msgctxt "trainergenerator.rsclose"
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: trainergenerator.rsdeactive
 msgid "(De)active"
@@ -16602,7 +16602,7 @@ msgstr "(In)actif"
 
 #: trainergenerator.rsdecrease
 msgid "Decrease"
-msgstr ""
+msgstr "Diminuer"
 
 #: trainergenerator.rsdesignuserinterfacemanually
 msgid "Design userinterface manually"
@@ -16614,11 +16614,11 @@ msgstr ""
 
 #: trainergenerator.rsdosomethingwith
 msgid "Do something with"
-msgstr ""
+msgstr "Faire quelque chose avec"
 
 #: trainergenerator.rseffect
 msgid "Effect"
-msgstr ""
+msgstr "Effet"
 
 #: trainergenerator.rsgobacktogenerateddesigner
 msgid "Go back to generated designer"
@@ -16627,11 +16627,11 @@ msgstr ""
 #: trainergenerator.rshotkey
 msgctxt "trainergenerator.rshotkey"
 msgid "Hotkey"
-msgstr ""
+msgstr "Raccourci"
 
 #: trainergenerator.rsincrease
 msgid "Increase"
-msgstr ""
+msgstr "Augmenter"
 
 #: trainergenerator.rsinvalidtrainerscript
 msgid "The current lua script only has a half TRAINERGENERATORSTART/TRAINERGENERATORSTOP block. Please fix this first (Removing is the easiest option)"
@@ -16651,15 +16651,15 @@ msgstr ""
 
 #: trainergenerator.rsselectthecheatentryyouwanttosetthehotkeyfor
 msgid "Select the cheat entry you want to set the hotkey for"
-msgstr ""
+msgstr "Sélectionnez l'entrée de triche pour laquelle vous voullez assigner le raccourci"
 
 #: trainergenerator.rsset
 msgid "Set"
-msgstr ""
+msgstr "Mettre"
 
 #: trainergenerator.rsthankyou
 msgid "Thank you! :)"
-msgstr ""
+msgstr "Merci !"
 
 #: trainergenerator.rstipyoudonthavetousethetrainergeneratorifyoudontwantto
 msgid "Tip: You don't have to use the trainer generator if you don't want to. You can just save your table as .EXE or CETRAINER"
@@ -16667,11 +16667,11 @@ msgstr ""
 
 #: trainergenerator.rsto
 msgid "to"
-msgstr ""
+msgstr "vers"
 
 #: trainergenerator.rsunfreeze
 msgid "(Un)Freeze"
-msgstr ""
+msgstr "(Dé)geler"
 
 #: trainergenerator.rsyouneedacheattablewithcheatentries
 msgid "You need a cheat table with cheat entries"
@@ -16679,7 +16679,7 @@ msgstr ""
 
 #: tregisters.caption
 msgid "Registers"
-msgstr ""
+msgstr "Registres"
 
 #: tregisters.eaxlabel.caption
 msgid "EAX 00000000FFFFFFFF"
@@ -16728,11 +16728,11 @@ msgstr ""
 #: tregisters.label14.caption
 msgctxt "tregisters.label14.caption"
 msgid "Registers:"
-msgstr ""
+msgstr "Registres :"
 
 #: tregisters.menuitem1.caption
 msgid "Copy registers to clipboard"
-msgstr ""
+msgstr "Copier les registres"
 
 #: tregisters.menuitem2.caption
 msgid "Copy full context block to clipboard"
@@ -16741,7 +16741,7 @@ msgstr ""
 #: tregisters.sbshowfloats.caption
 msgctxt "TREGISTERS.SBSHOWFLOATS.CAPTION"
 msgid "F"
-msgstr ""
+msgstr "F"
 
 #: tregisters.sbshowfloats.hint
 msgctxt "TREGISTERS.SBSHOWFLOATS.HINT"
@@ -16751,7 +16751,7 @@ msgstr ""
 #: tregisters.sbshowstack.caption
 msgctxt "TREGISTERS.SBSHOWSTACK.CAPTION"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: tregisters.sbshowstack.hint
 msgctxt "TREGISTERS.SBSHOWSTACK.HINT"
@@ -16760,21 +16760,21 @@ msgstr ""
 
 #: ttlg.caption
 msgid "TLG:The Lame Game"
-msgstr ""
+msgstr "TLG : The Lame Game"
 
 #: ttlg.label1.caption
 msgid "Score:"
-msgstr ""
+msgstr "Score :"
 
 #: ttlg.label2.caption
 msgctxt "TTLG.LABEL2.CAPTION"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ttypeform.button1.caption
 msgctxt "TTYPEFORM.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: ttypeform.button2.caption
 msgctxt "TTYPEFORM.BUTTON2.CAPTION"
@@ -16794,17 +16794,17 @@ msgstr ""
 #: ttypeform.cbunicode.caption
 msgctxt "TTYPEFORM.CBUNICODE.CAPTION"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: ttypeform.edit1.text
 msgctxt "TTYPEFORM.EDIT1.TEXT"
 msgid "10"
-msgstr ""
+msgstr "10"
 
 #: ttypeform.edit2.text
 msgctxt "TTYPEFORM.EDIT2.TEXT"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ttypeform.label1.caption
 msgid "Select the new type:"
@@ -16813,57 +16813,57 @@ msgstr "Sélectionner le nouveau type :"
 #: ttypeform.label10.caption
 msgctxt "TTYPEFORM.LABEL10.CAPTION"
 msgid "6"
-msgstr ""
+msgstr "6"
 
 #: ttypeform.label11.caption
 msgctxt "TTYPEFORM.LABEL11.CAPTION"
 msgid "7"
-msgstr ""
+msgstr "7"
 
 #: ttypeform.label2.caption
 msgctxt "TTYPEFORM.LABEL2.CAPTION"
 msgid "Length"
-msgstr ""
+msgstr "Taille"
 
 #: ttypeform.label4.caption
 msgctxt "TTYPEFORM.LABEL4.CAPTION"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ttypeform.label5.caption
 msgctxt "TTYPEFORM.LABEL5.CAPTION"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ttypeform.label6.caption
 msgctxt "TTYPEFORM.LABEL6.CAPTION"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ttypeform.label7.caption
 msgctxt "TTYPEFORM.LABEL7.CAPTION"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ttypeform.label8.caption
 msgctxt "TTYPEFORM.LABEL8.CAPTION"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ttypeform.label9.caption
 msgctxt "TTYPEFORM.LABEL9.CAPTION"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ttypeform.lengthlabel.caption
 msgctxt "TTYPEFORM.LENGTHLABEL.CAPTION"
 msgid "Length"
-msgstr ""
+msgstr "Taille"
 
 #: tvaluechangeform.button1.caption
 msgctxt "TVALUECHANGEFORM.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tvaluechangeform.button2.caption
 msgctxt "TVALUECHANGEFORM.BUTTON2.CAPTION"
@@ -16872,28 +16872,28 @@ msgstr "Annuler"
 
 #: tvaluechangeform.caption
 msgid "Change Offset: ########"
-msgstr ""
+msgstr "Modifier l'Offset : ########"
 
 #: tvaluechangeform.cbunicode.caption
 msgctxt "TVALUECHANGEFORM.CBUNICODE.CAPTION"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 #: tvaluechangeform.cbvartype.text
 msgid "1 Byte"
-msgstr ""
+msgstr "1 Byte"
 
 #: tvaluechangeform.valuetext.text
 msgid "ValueText"
-msgstr ""
+msgstr "Valeur de texte"
 
 #: typepopup.rsinvalidlength
 msgid "Invalid length"
-msgstr ""
+msgstr "Taille invalide"
 
 #: unrandomizer.rsthefollowingaddressesgotchanged
 msgid "The following addresses got changed"
-msgstr ""
+msgstr "Les adresses suivantes ont été modifiées"
 
 #: unrandomizer.rstheunrandomizerwillcurrentlynotworkon64bitapplicat
 msgid "The unrandomizer will currently not work on 64-bit applications"
@@ -16901,11 +16901,11 @@ msgstr ""
 
 #: valuechange.rschangeoffset
 msgid "Change offset %s"
-msgstr ""
+msgstr "Modifier l'Offset"
 
 #: valuechange.rspartofthestringisunreadable
 msgid "Part of the string is unreadable!"
-msgstr ""
+msgstr "Une partie de la chaîne de caractères est illisible !"
 
 #: vartypestrings.rs_vtall
 msgctxt "vartypestrings.rs_vtall"
@@ -16914,7 +16914,7 @@ msgstr "Tout"
 
 #: vartypestrings.rs_vtautoassembler
 msgid "Auto Assembler Script"
-msgstr ""
+msgstr "Script de l'Auto Assembleur"
 
 #: vartypestrings.rs_vtbinary
 msgctxt "vartypestrings.rs_vtbinary"
@@ -16924,7 +16924,7 @@ msgstr "Binaire"
 #: vartypestrings.rs_vtbyte
 msgctxt "vartypestrings.rs_vtbyte"
 msgid "Byte"
-msgstr ""
+msgstr "Byte"
 
 #: vartypestrings.rs_vtbytearray
 msgctxt "vartypestrings.rs_vtbytearray"
@@ -16937,31 +16937,31 @@ msgstr ""
 
 #: vartypestrings.rs_vtcustom
 msgid "Custom"
-msgstr ""
+msgstr "Personnalisé"
 
 #: vartypestrings.rs_vtdouble
 msgctxt "vartypestrings.rs_vtdouble"
 msgid "Double"
-msgstr ""
+msgstr "Double"
 
 #: vartypestrings.rs_vtdword
 msgctxt "vartypestrings.rs_vtdword"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 Bytes"
 
 #: vartypestrings.rs_vtgrouped
 msgid "Grouped"
-msgstr ""
+msgstr "Groupé"
 
 #: vartypestrings.rs_vtpointer
 msgctxt "vartypestrings.rs_vtpointer"
 msgid "Pointer"
-msgstr ""
+msgstr "Pointeur"
 
 #: vartypestrings.rs_vtqword
 msgctxt "vartypestrings.rs_vtqword"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 Bytes"
 
 #: vartypestrings.rs_vtsingle
 msgctxt "vartypestrings.rs_vtsingle"
@@ -16975,16 +16975,16 @@ msgstr "Chaîne de caractères"
 
 #: vartypestrings.rs_vtunicodestring
 msgid "Unicode String"
-msgstr ""
+msgstr "Chaîne de caractères Unicode"
 
 #: vartypestrings.rs_vtwidestring
 msgid "Widestring"
-msgstr ""
+msgstr "Large Chaîne de caractères"
 
 #: vartypestrings.rs_vtword
 msgctxt "vartypestrings.rs_vtword"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2 Bytes"
 
 #: vehdebugger.rscheatenginefailedtogetintotheconfig
 msgid "Cheat Engine failed to get into the config of the selected program. (Error=%s)"
@@ -16996,25 +16996,25 @@ msgstr ""
 
 #: vehdebugger.rsfailureduplicatingtheeventhandlestotheotherprocess
 msgid "Failure duplicating the event handles to the other process"
-msgstr ""
+msgstr "Echec lors de la duplication"
 
 #: vehdebugger.rsfailureduplicatingthefilemapping
 msgid "Failure duplicating the filemapping"
-msgstr ""
+msgstr "Echec lors de la duplication"
 
 #: vehdebugger.rsvehdebugerror
 msgid "VEH Debug error"
-msgstr ""
+msgstr "Erreur de débug VEH"
 
 #: virtualmemory.rsnomemoryfoundinthespecifiedregion
 msgctxt "virtualmemory.rsnomemoryfoundinthespecifiedregion"
 msgid "No memory found in the specified region"
-msgstr ""
+msgstr "Aucune mémoire trouvée dans la région spécifiée"
 
 #: virtualmemory.rsnotenoughmemoryfreetoscan
 msgctxt "virtualmemory.rsnotenoughmemoryfreetoscan"
 msgid "Not enough memory free to scan"
-msgstr ""
+msgstr "Mémoire libre insuffisante pour effectuer un Scan"
 
 #: vmxfunctions.rsbigerror
 msgctxt "vmxfunctions.rsbigerror"
@@ -17028,11 +17028,11 @@ msgstr "Instruction invalide"
 #: vmxfunctions.rssmallerror
 msgctxt "vmxfunctions.rssmallerror"
 msgid "error"
-msgstr ""
+msgstr "Erreur"
 
 #: windowsdebugger.rserrorattachingthewindowsdebugger
 msgid "Error attaching the windows debugger: %s"
-msgstr ""
+msgstr "Erreur lors de l'ajout de la fenêtre du débugger"
 
 #: zstreamext.rsaseekwasdoneforanotherpurpose
 msgid "A seek was done for another purpose than getting the position"
