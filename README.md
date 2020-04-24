@@ -22,3 +22,7 @@ Version 0.1 :
 Version 0.2 :
 - Traduction de nouveaux éléments d'interface
 - Correction de plusieurs erreurs de traduction
+
+Version 0.3
+- Correction de traductions
+- Plusieurs centaines de nouveaux éléments d'interface traduits
