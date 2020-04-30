@@ -19,15 +19,15 @@ msgstr ""
 
 #: aboutunit.rsdidyoureallythinkyoudfindaneastereggbydoingthiswel
 msgid "Did you really think you'd find an easter egg by doing this? Well, you know what? You where right!"
-msgstr ""
+msgstr "Tu pensais vraiment trouver un Easter Egg en faisant ça ? Et bien tu sais quoi : Tu avais raison !"
 
 #: aboutunit.rslaunchdbvmwasnotassigned
 msgid "launchdbvm was not assigned"
-msgstr ""
+msgstr "Launchdbvm n'a pas été assigné"
 
 #: aboutunit.rsthismeansthatyourecurrentlynotrunningdbvm
 msgid "This means that you're currently not running dbvm, but that your system is capable of running it"
-msgstr ""
+msgstr "Cela veut dire que Dbvm n'est pas en cours d'éxecution, mais que votre système est capable de le lancer"
 
 #: aboutunit.rsthismeansthatyoursystemisrunningdbvm
 msgid "This means that your system is running dbvm. This means ce will make use of some advanced tools that are otherwise unavailable"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: aboutunit.rsyoursystemdoesnotsupportdbvm
 msgid "Your system DOES NOT support DBVM"
-msgstr ""
+msgstr "Votre système NE SUPPORTE PAS DBVM"
 
 #: aboutunit.rsyoursystemisrunningdbvmversion
 msgid "Your system is running DBVM version %s (%.0n bytes free (%d pages))"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: aboutunit.rsyoursystemsupportsdbvm
 msgid "Your system supports DBVM"
-msgstr ""
+msgstr "Votre système supporte DBVM"
 
 #: accesscheck.rsbutyoudohavemodifyrights
 msgid "But you do have modify rights"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: accesscheck.rsnodeleterights
 msgid "No delete rights"
-msgstr ""
+msgstr "Aucun droit de suppression"
 
 #: accesscheck.rsnofilecreationrightsornofileoverwriterights
 msgid "No file creation rights or no file overwrite rights"
@@ -63,11 +63,11 @@ msgstr ""
 
 #: accesscheck.rsnofiledeletionrights
 msgid "No file deletion rights"
-msgstr ""
+msgstr "Aucun droit de suppression de fichier"
 
 #: accesscheck.rsnofilemodificationrights
 msgid "No file modification rights"
-msgstr ""
+msgstr "Aucun droit de modification de fichier"
 
 #: accessedmemory.rsamerror
 msgctxt "accessedmemory.rsamerror"
@@ -103,7 +103,7 @@ msgstr "Aucune description"
 
 #: addresslist.rschangedescription
 msgid "Change Description"
-msgstr ""
+msgstr "Changer la description"
 
 #: addresslist.rschangevalue
 msgctxt "addresslist.rschangevalue"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: addresslist.rsscript
 msgid "<script>"
-msgstr ""
+msgstr "<script>"
 
 #: addresslist.rsthevaluecouldnotbeparsed
 msgid "The value %s could not be parsed"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: addressparser.rsapthisisnotavalidaddress
 msgid "This is not a valid address"
-msgstr ""
+msgstr "Ce n'est pas une adresse valide"
 
 #: advancedoptionsunit.rsaocheatenginefailedtogetintotheconfigofselectedprogram
 msgid "Cheat Engine failed to get into the config of the selected program."
@@ -172,7 +172,7 @@ msgstr "Vous ne pouvez charger que des fichiers .EXE"
 
 #: advancedoptionsunit.rsareyousureyouwishtodeletetheseentries
 msgid "Are you sure you wish to delete these entries?"
-msgstr ""
+msgstr "Êtes-vous sur de vouloir supprimer ces entrées ?"
 
 #: advancedoptionsunit.rsdelete
 msgctxt "advancedoptionsunit.rsdelete"
@@ -181,15 +181,15 @@ msgstr "Supprimer"
 
 #: advancedoptionsunit.rsgivethenewnameofthisentry
 msgid "Give the new name of this entry"
-msgstr ""
+msgstr "Donnez un nouveau nom pour cette entrée"
 
 #: advancedoptionsunit.rsnewname
 msgid "New name"
-msgstr ""
+msgstr "Nouveau nom"
 
 #: advancedoptionsunit.rspaused
 msgid "paused"
-msgstr ""
+msgstr "Pause activée"
 
 #: advancedoptionsunit.rspausethegame
 msgctxt "advancedoptionsunit.rspausethegame"
@@ -198,21 +198,21 @@ msgstr "Mettre en pause"
 
 #: advancedoptionsunit.rsresumethegame
 msgid "Resume the game"
-msgstr ""
+msgstr "Reprendre le jeu"
 
 #: advancedoptionsunit.rsthememoryatthisaddresscouldntbewritten
 msgctxt "advancedoptionsunit.rsthememoryatthisaddresscouldntbewritten"
 msgid "The memory at this address couldn't be written"
-msgstr ""
+msgstr "La mémoire à cette adresse n'a pas pu être écrite"
 
 #: advancedoptionsunit.straddressalreadyinthelist
 msgctxt "advancedoptionsunit.straddressalreadyinthelist"
 msgid "This address is already in the list"
-msgstr ""
+msgstr "Cette adresse est déjà dans la liste"
 
 #: advancedoptionsunit.stralreadyinthelist
 msgid "This byte is already part of another opcode already present in the list"
-msgstr ""
+msgstr "Ce Byte fait déjà partie d'un autre code déjà présent dans la liste"
 
 #: advancedoptionsunit.strcecode
 msgid "Code:"
@@ -220,7 +220,7 @@ msgstr "Code:"
 
 #: advancedoptionsunit.strchangeof
 msgid "Change of "
-msgstr ""
+msgstr "Changement de "
 
 #: advancedoptionsunit.strcode
 msgid "Code :"
@@ -228,61 +228,61 @@ msgstr "Code :"
 
 #: advancedoptionsunit.strcouldntrestorecode
 msgid "Error when trying to restore this code!"
-msgstr ""
+msgstr "Erreur lors de la tentative de restauration de ce code !"
 
 #: advancedoptionsunit.strcouldntwrite
 msgctxt "advancedoptionsunit.strcouldntwrite"
 msgid "The memory at this address couldn't be written"
-msgstr ""
+msgstr "La mémoire à cette adresse n'a pas pu être écrite"
 
 #: advancedoptionsunit.strfindwhatcodeaccesses
 msgid "Find out what addresses this code accesses"
-msgstr ""
+msgstr "Trouver à quelles adresses ce code accède"
 
 #: advancedoptionsunit.strfindwhatcodereads
 msgid "Find out what addresses this code reads from"
-msgstr ""
+msgstr "Trouver depuis quelles adresse ce code lis"
 
 #: advancedoptionsunit.strfindwhatcodewrites
 msgctxt "advancedoptionsunit.strfindwhatcodewrites"
 msgid "Find out what addresses this code writes to"
-msgstr ""
+msgstr "Trouver à quelles adresses ce code écrit"
 
 #: advancedoptionsunit.strnamececode
 msgid "What name do you want to give this code?"
-msgstr ""
+msgstr "Quel nom voulez-vous donner à ce code ?"
 
 #: advancedoptionsunit.strnotreadable
 msgid "This address is not readable"
-msgstr ""
+msgstr "Cette adresse n'est pas lisible"
 
 #: advancedoptionsunit.strnotthesame
 msgid "The memory at this address isn't what it should be! Continue?"
-msgstr ""
+msgstr "La mémoire à cette adresse n'est pas de qu'elle devrait être ! Continuer ?"
 
 #: advancedoptionsunit.strnotwhatitshouldbe
 msgid "The memory at this address is'nt what it should be! Continue?"
-msgstr ""
+msgstr "La mémoire à cette adresse n'est pas de qu'elle devrait être ! Continuer ?"
 
 #: advancedoptionsunit.strpartofopcodeinthelist
 msgid "At least one of these bytes is already in the list"
-msgstr ""
+msgstr "Au moins une de ces Bytes est déjà dans la liste"
 
 #: advancedoptionsunit.strselectexefor3d
 msgid "Select the executable of the Direct-3D game"
-msgstr ""
+msgstr "Selectionnez l'éxecutable du jeu Direct-3D"
 
 #: assemblerarm.rscannotbeencoded
 msgid " can not be encoded using 8 bits and double rotate"
-msgstr ""
+msgstr "ne peut pas être encodé"
 
 #: assemblerarm.rsdistanceistoobig
 msgid "Distance is too big"
-msgstr ""
+msgstr "La distance est trop grande"
 
 #: assemblerarm.rsinvaliddestinationregister
 msgid "Invalid destination register"
-msgstr ""
+msgstr "Destination du registre invalide"
 
 #: assemblerarm.rsinvalidfirstoperandregister
 msgid "Invalid first operand register"
@@ -290,7 +290,7 @@ msgstr ""
 
 #: assemblerarm.rsinvalidopcode
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Opcode invalide"
 
 #: assemblerarm.rsinvalidparameter1
 msgid "Invalid parameter 1"
@@ -359,15 +359,15 @@ msgstr ""
 
 #: assemblerunit.rsassemblererror
 msgid "Assembler error"
-msgstr ""
+msgstr "Erreur de l'Assembleur"
 
 #: assemblerunit.rsidontunderstandwhatyoumeanwith
 msgid "I don't understand what you mean with "
-msgstr ""
+msgstr "Je ne comprend pas ce que vous voulez dire par "
 
 #: assemblerunit.rsinvalid
 msgid "Invalid"
-msgstr ""
+msgstr "Invalide"
 
 #: assemblerunit.rsinvalidaddress
 msgctxt "assemblerunit.rsinvalidaddress"
@@ -376,7 +376,7 @@ msgstr "Adresse invalide"
 
 #: assemblerunit.rsinvalidmultiplier
 msgid "Invalid multiplier"
-msgstr ""
+msgstr "Multiplicateur invalide"
 
 #: assemblerunit.rsinvalidregister
 msgctxt "assemblerunit.rsinvalidregister"
@@ -385,15 +385,15 @@ msgstr "Registre invalide"
 
 #: assemblerunit.rsnegativeregisterscannotbeencoded
 msgid "Negative registers can not be encoded"
-msgstr ""
+msgstr "Les registres négatifs ne peuvent pas être encodés"
 
 #: assemblerunit.rsoffsettoobig
 msgid "offset too big"
-msgstr ""
+msgstr "L'Offset est trop grand"
 
 #: assemblerunit.rstheassemblertriedtosetaregistevaluethatistoohigh
 msgid "The assembler tried to set a register value that is too high"
-msgstr ""
+msgstr "L'assembleur a tenté d'assigner une valeur de registre qui est trop haute"
 
 #: assemblerunit.rswtfisa
 msgid "WTF is a "
@@ -401,7 +401,7 @@ msgstr ""
 
 #: autoassembler.rsaaerror
 msgid "Error: "
-msgstr ""
+msgstr "Erreur :"
 
 #: autoassembler.rsaaerrorinthestructuredefinitionof
 msgid "Error in the structure definition of %s at line %d"
@@ -413,7 +413,7 @@ msgstr ""
 
 #: autoassembler.rsaaisareservedword
 msgid "%s is a reserved word"
-msgstr ""
+msgstr "%s est un mot réservé"
 
 #: autoassembler.rsaaluaerrorinthescriptatline
 msgid "Lua error in the script at line "
@@ -421,11 +421,11 @@ msgstr ""
 
 #: autoassembler.rsaamodulenotfound
 msgid "module not found:"
-msgstr ""
+msgstr "Module introuvable :"
 
 #: autoassembler.rsaanoendfound
 msgid "No end found"
-msgstr ""
+msgstr "Fin introuvable"
 
 #: autoassembler.rsaanoideawhatxis
 msgid "No idea what %s is"
@@ -442,7 +442,7 @@ msgstr ""
 
 #: autoassembler.rscouldnotbeinjected
 msgid "%s could not be injected"
-msgstr ""
+msgstr "%s n'a pas pu être injecté"
 
 #: autoassembler.rsdefinealreadydefined
 msgid "Define %s already defined"
@@ -450,11 +450,11 @@ msgstr ""
 
 #: autoassembler.rserrorinline
 msgid "Error in line %s (%s) :%s"
-msgstr ""
+msgstr "Erreur à la ligne %s (%s) : %s"
 
 #: autoassembler.rsfailuretoallocatememory
 msgid "Failure to allocate memory"
-msgstr ""
+msgstr "Echec lors de l'allocation de mémoire"
 
 #: autoassembler.rsforwardjumpwithnolabeldefined
 msgid "Forward jump with no label defined"
@@ -462,15 +462,15 @@ msgstr ""
 
 #: autoassembler.rsgoto
 msgid "Go to "
-msgstr ""
+msgstr "Aller à "
 
 #: autoassembler.rsinvalidaddressforreadmem
 msgid "Invalid address for ReadMem"
-msgstr ""
+msgstr "Adresse invalide pour ReadMem"
 
 #: autoassembler.rsinvalidsizeforreadmem
 msgid "Invalid size for ReadMem"
-msgstr ""
+msgstr "Taille invalide pour ReadMem"
 
 #: autoassembler.rsisbeingredeclared
 msgid "%s is being redeclared"
@@ -514,7 +514,7 @@ msgstr ""
 
 #: autoassembler.rssyntaxerror
 msgid "Syntax error"
-msgstr ""
+msgstr "Erreur de syntaxe"
 
 #: autoassembler.rssyntaxerrorfullaccessaddresssize
 msgid "Syntax error. FullAccess(address,size)"
@@ -578,7 +578,7 @@ msgstr ""
 
 #: autoassembler.rsthisinstructioncantbecompiled
 msgid "This instruction can't be compiled"
-msgstr ""
+msgstr "Cette instruction ne peut pas être compilée"
 
 #: autoassembler.rswassupposedtobeaddedtothesymbollistbutitisntdeclar
 msgid "%s was supposed to be added to the symbollist, but it isn't declared"
@@ -707,7 +707,7 @@ msgstr ""
 
 #: cedebugger.rscontinue
 msgid "Continue?"
-msgstr ""
+msgstr "Continuer ?"
 
 #: cedebugger.rsdebugerror
 msgid "I couldn't attach the debugger to this process! You could try to open the process using the processpicker and try that! If that also doesn't work check if you have debugging rights."
@@ -715,11 +715,11 @@ msgstr ""
 
 #: cedebugger.rsdonotclosece
 msgid "If you close Cheat Engine while the game is running, the game will close too. Are you sure you want to do this?"
-msgstr ""
+msgstr "Si vous fermez Cheat Engine pendant que le jeu est en cours d'éxecution, le jeu se fermera aussi. Être vous sur de vouloir faire cela ?"
 
 #: cedebugger.rspleasetargetanotherprocess
 msgid "Please target another process"
-msgstr ""
+msgstr "Mettre de bien vouloir sélectionner un autre Processus"
 
 #: cedebugger.rsthiswillattachthedebuggerofcheatenginetothecurrent
 msgid "This will attach the debugger of Cheat Engine to the current process."
@@ -727,12 +727,12 @@ msgstr ""
 
 #: cedebugger.rsyoumustfirstopenaprocess
 msgid "You must first open a process"
-msgstr ""
+msgstr "Vous devez avant tout ouvrir un Processus"
 
 #: cefuncproc.rsalt
 msgctxt "cefuncproc.rsalt"
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #: cefuncproc.rsapplicationskey
 msgctxt "cefuncproc.rsapplicationskey"
@@ -742,7 +742,7 @@ msgstr ""
 #: cefuncproc.rsbackspace
 msgctxt "cefuncproc.rsbackspace"
 msgid "Backspace"
-msgstr ""
+msgstr "Barre d'espace"
 
 #: cefuncproc.rsbreak
 msgctxt "cefuncproc.rsbreak"
@@ -766,16 +766,16 @@ msgstr ""
 #: cefuncproc.rsclear
 msgctxt "cefuncproc.rsclear"
 msgid "Clear"
-msgstr ""
+msgstr "Vider"
 
 #: cefuncproc.rsctrl
 msgctxt "cefuncproc.rsctrl"
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #: cefuncproc.rsdeletekey
 msgid "Delete "
-msgstr ""
+msgstr "Supprimer "
 
 #: cefuncproc.rsdownarrow
 msgctxt "cefuncproc.rsdownarrow"
@@ -785,17 +785,17 @@ msgstr ""
 #: cefuncproc.rsend
 msgctxt "cefuncproc.rsend"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #: cefuncproc.rsenter
 msgctxt "cefuncproc.rsenter"
 msgid "Enter"
-msgstr ""
+msgstr "Entrée"
 
 #: cefuncproc.rsesc
 msgctxt "cefuncproc.rsesc"
 msgid "Esc"
-msgstr ""
+msgstr "Echap"
 
 #: cefuncproc.rsexecute
 msgctxt "cefuncproc.rsexecute"
@@ -808,11 +808,11 @@ msgstr ""
 
 #: cefuncproc.rsfailedinjectingthedll
 msgid "Failed injecting the DLL"
-msgstr ""
+msgstr "Echec lors de l'injection du DLL"
 
 #: cefuncproc.rsfailedtoallocatememory
 msgid "Failed to allocate memory"
-msgstr ""
+msgstr "Echec de l'allocation de la mémoire"
 
 #: cefuncproc.rsfailedtoexecutethedllloader
 msgid "Failed to execute the dll loader"
@@ -834,7 +834,7 @@ msgstr "Aide"
 #: cefuncproc.rshome
 msgctxt "cefuncproc.rshome"
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: cefuncproc.rsicantgettheprocesslistyouarepropablyusingwindowsnt
 msgctxt "cefuncproc.rsicantgettheprocesslistyouarepropablyusingwindowsnt"
@@ -883,7 +883,7 @@ msgstr ""
 #: cefuncproc.rsnumeric
 msgctxt "cefuncproc.rsnumeric"
 msgid "numeric"
-msgstr ""
+msgstr "Numérique"
 
 #: cefuncproc.rsnumlock
 msgctxt "cefuncproc.rsnumlock"
@@ -917,7 +917,7 @@ msgstr ""
 #: cefuncproc.rsprintscreen
 msgctxt "cefuncproc.rsprintscreen"
 msgid "Print Screen"
-msgstr ""
+msgstr "Impression d'écran"
 
 #: cefuncproc.rsrightarrow
 msgctxt "cefuncproc.rsrightarrow"
@@ -1056,7 +1056,7 @@ msgstr ""
 #: customtypehandler.rsundefinederror
 msgctxt "customtypehandler.rsundefinederror"
 msgid "Undefined error"
-msgstr ""
+msgstr "Erreur indéfinie"
 
 #: d3dhookunit.rsd3dhookfailuretomapthesharedmemoryobject
 msgid "D3DHook: Failure to map the shared memory object"
@@ -1080,15 +1080,15 @@ msgstr ""
 
 #: dbk32functions.rsdbk32error
 msgid "DBK32 error"
-msgstr ""
+msgstr "Erreur DBK32"
 
 #: dbk32functions.rsdbkerror
 msgid "DBK Error"
-msgstr ""
+msgstr "Erreur DBK"
 
 #: dbk32functions.rsdrivererror
 msgid "Driver error"
-msgstr ""
+msgstr "Erreur des Pilotes"
 
 #: dbk32functions.rsfailuretoconfigurethedriver
 msgid "Failure to configure the driver"
@@ -1100,7 +1100,7 @@ msgstr ""
 
 #: dbk32functions.rsinvalidmsraddress
 msgid "Invalid MSR address:"
-msgstr ""
+msgstr "Adresse MSR invalide : "
 
 #: dbk32functions.rsmsrsareunavailable
 msgid "msrs are unavailable"
@@ -1168,7 +1168,7 @@ msgstr ""
 
 #: dbvmloadmanual.rscpu
 msgid "CPU "
-msgstr ""
+msgstr "CPU "
 
 #: dbvmloadmanual.rscpualreadyrunningdbvm
 msgid "This cpu is already running DBVM"
@@ -1176,7 +1176,7 @@ msgstr ""
 
 #: dbvmloadmanual.rsloaded
 msgid "Loaded:"
-msgstr ""
+msgstr "Chargé : "
 
 #: dbvmloadmanual.rsnotloaded
 msgid "Not loaded"
@@ -1374,7 +1374,7 @@ msgstr "Adresse"
 #: disassemblerviewunit.rsbytes
 msgctxt "disassemblerviewunit.rsbytes"
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 #: disassemblerviewunit.rscomment
 msgctxt "disassemblerviewunit.rscomment"
@@ -1383,7 +1383,7 @@ msgstr ""
 
 #: disassemblerviewunit.rsopcode
 msgid "Opcode"
-msgstr ""
+msgstr "Opcode"
 
 #: disassemblerviewunit.rspleaseopenaprocessfirst
 msgid "Please open a process first"
@@ -1423,7 +1423,7 @@ msgstr "Stop"
 #: dotnettypes.rsdnt2byte
 msgctxt "dotnettypes.rsdnt2byte"
 msgid "2 Byte"
-msgstr ""
+msgstr "2 Byte"
 
 #: dotnettypes.rsdnt2bytesigned
 msgid "2 Byte (Signed)"
@@ -1432,7 +1432,7 @@ msgstr ""
 #: dotnettypes.rsdnt4byte
 msgctxt "dotnettypes.rsdnt4byte"
 msgid "4 Byte"
-msgstr ""
+msgstr "4 Byte"
 
 #: dotnettypes.rsdnt4bytesigned
 msgid "4 Byte (Signed)"
@@ -1457,7 +1457,7 @@ msgstr ""
 #: dotnettypes.rsdntbyte
 msgctxt "dotnettypes.rsdntbyte"
 msgid "Byte"
-msgstr ""
+msgstr "Byte"
 
 #: dotnettypes.rsdntbytesigned
 msgid "Byte (Signed)"
@@ -1519,7 +1519,7 @@ msgstr ""
 
 #: dotnettypes.rsdntobject
 msgid "Object"
-msgstr ""
+msgstr "Objet"
 
 #: dotnettypes.rsdntpinned
 msgid "Pinned"
@@ -1528,11 +1528,11 @@ msgstr ""
 #: dotnettypes.rsdntpointer
 msgctxt "dotnettypes.rsdntpointer"
 msgid "Pointer"
-msgstr ""
+msgstr "Pointeur"
 
 #: dotnettypes.rsdntreference
 msgid "Reference"
-msgstr ""
+msgstr "Référence"
 
 #: dotnettypes.rsdntsentinel
 msgid "Sentinel"
@@ -1562,7 +1562,7 @@ msgstr ""
 
 #: dotnettypes.rsdntvaluetype
 msgid "ValueType"
-msgstr ""
+msgstr "Type de valeur"
 
 #: dotnettypes.rsdntvar
 msgid "Var"
@@ -1575,7 +1575,7 @@ msgstr ""
 #: driverlist.rsdlnothingfound
 msgctxt "driverlist.rsdlnothingfound"
 msgid "nothing found"
-msgstr ""
+msgstr "Rien n'a été trouvé"
 
 #: extratrainercomponents.rsundefineddescription
 msgid "undefined description"
@@ -1771,29 +1771,29 @@ msgstr ""
 
 #: formaddtocodelist.rsregion
 msgid "Region"
-msgstr ""
+msgstr "Région"
 
 #: formaddtocodelist.rsregiontoadd
 msgctxt "formaddtocodelist.rsregiontoadd"
 msgid "Region to add"
-msgstr ""
+msgstr "Région à ajouter"
 
 #: formchangedaddresses.rsareyouwishtodelete
 msgid "Are you sure you wish to delete these entries(s)?"
-msgstr ""
+msgstr "Voulez-vous vraiment supprimer cette/ces entrée(s) ?"
 
 #: formchangedaddresses.rschangedaddressesby
 msgid "Changed Addresses by %x"
-msgstr ""
+msgstr "Adresses changées par %x"
 
 #: formchangedaddresses.rsclose
 msgctxt "formchangedaddresses.rsclose"
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: formchangedaddresses.rsdeleteaddresses
 msgid "Delete addresses"
-msgstr ""
+msgstr "Adresses supprimées"
 
 #: formchangedaddresses.rsdesignatesomeaddresses
 msgid "Please designate a group to at least some addresses"
@@ -1801,7 +1801,7 @@ msgstr ""
 
 #: formchangedaddresses.rsinvalidgroups
 msgid "Invalid groups"
-msgstr ""
+msgstr "Groupes invalides"
 
 #: formchangedaddresses.rsnoaddressesleftforgroup
 msgid "There are no addresses left for group %d"
@@ -1809,7 +1809,7 @@ msgstr ""
 
 #: formchangedaddresses.rsnodescription
 msgid "No Description"
-msgstr ""
+msgstr "Aucune description"
 
 #: formchangedaddresses.rsstop
 msgctxt "formchangedaddresses.rsstop"
@@ -1831,7 +1831,7 @@ msgstr ""
 
 #: formdesignerunit.rsinvalidobject
 msgid "{Invalid object}"
-msgstr ""
+msgstr "{Objet invalide}"
 
 #: formdesignerunit.rsshowcheckboxesforboolean
 msgid "Show checkboxes for boolean"
@@ -1856,7 +1856,7 @@ msgstr ""
 #: formhotkeyunit.rsalt
 msgctxt "formhotkeyunit.rsalt"
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #: formhotkeyunit.rsapplicationskey
 msgctxt "formhotkeyunit.rsapplicationskey"
@@ -1866,7 +1866,7 @@ msgstr ""
 #: formhotkeyunit.rsbackspace
 msgctxt "formhotkeyunit.rsbackspace"
 msgid "Backspace"
-msgstr ""
+msgstr "Barre d'espace"
 
 #: formhotkeyunit.rscapslock
 msgctxt "formhotkeyunit.rscapslock"
@@ -1876,12 +1876,12 @@ msgstr ""
 #: formhotkeyunit.rsclear
 msgctxt "formhotkeyunit.rsclear"
 msgid "Clear"
-msgstr ""
+msgstr "Vider"
 
 #: formhotkeyunit.rsctrl
 msgctxt "formhotkeyunit.rsctrl"
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #: formhotkeyunit.rsdelete
 msgctxt "formhotkeyunit.rsdelete"
@@ -1896,17 +1896,17 @@ msgstr ""
 #: formhotkeyunit.rsend
 msgctxt "formhotkeyunit.rsend"
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #: formhotkeyunit.rsenter
 msgctxt "formhotkeyunit.rsenter"
 msgid "Enter"
-msgstr ""
+msgstr "Entrée"
 
 #: formhotkeyunit.rsesc
 msgctxt "formhotkeyunit.rsesc"
 msgid "Esc"
-msgstr ""
+msgstr "Echap"
 
 #: formhotkeyunit.rsexecute
 msgctxt "formhotkeyunit.rsexecute"
@@ -1921,7 +1921,7 @@ msgstr "Aide"
 #: formhotkeyunit.rshome
 msgctxt "formhotkeyunit.rshome"
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: formhotkeyunit.rsinsert
 msgctxt "formhotkeyunit.rsinsert"
@@ -1966,12 +1966,12 @@ msgstr "Pause"
 #: formhotkeyunit.rsprint
 msgctxt "formhotkeyunit.rsprint"
 msgid "Print"
-msgstr ""
+msgstr "Imprimer"
 
 #: formhotkeyunit.rsprintscreen
 msgctxt "formhotkeyunit.rsprintscreen"
 msgid "Print Screen"
-msgstr ""
+msgstr impression d'écran""
 
 #: formhotkeyunit.rsrightarrow
 msgctxt "formhotkeyunit.rsrightarrow"
@@ -2063,7 +2063,7 @@ msgstr ""
 #: formmemoryregionsunit.rsimage
 msgctxt "formmemoryregionsunit.rsimage"
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 #: formmemoryregionsunit.rsmapped
 msgid "Mapped"
@@ -2125,12 +2125,12 @@ msgstr ""
 #: formsettingsunit.rs4bytes
 msgctxt "formsettingsunit.rs4bytes"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4 Bytes"
 
 #: formsettingsunit.rs8bytes
 msgctxt "formsettingsunit.rs8bytes"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8 Bytes"
 
 #: formsettingsunit.rsallcustomtypes
 msgid "All Custom Types"
@@ -2153,7 +2153,7 @@ msgstr "Binaire"
 #: formsettingsunit.rsbyte
 msgctxt "formsettingsunit.rsbyte"
 msgid "Byte"
-msgstr ""
+msgstr "Byte"
 
 #: formsettingsunit.rscancelthecurrentscan
 msgid "Cancel the current scan"
@@ -2183,12 +2183,12 @@ msgstr ""
 #: formsettingsunit.rsdouble
 msgctxt "formsettingsunit.rsdouble"
 msgid "Double"
-msgstr ""
+msgstr "Double"
 
 #: formsettingsunit.rsextra
 msgctxt "formsettingsunit.rsextra"
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 #: formsettingsunit.rsfailmmregistry
 msgid "Failure getting the Memory Management registry key"
@@ -2263,11 +2263,11 @@ msgstr ""
 #: formsettingsunit.rsnextscan
 msgctxt "formsettingsunit.rsnextscan"
 msgid "Next Scan"
-msgstr ""
+msgstr "Scan suivant"
 
 #: formsettingsunit.rsnoname
 msgid "No Name"
-msgstr ""
+msgstr "Aucun Nom"
 
 #: formsettingsunit.rsnormal
 msgctxt "formsettingsunit.rsnormal"
@@ -2285,7 +2285,7 @@ msgstr ""
 #: formsettingsunit.rsplugins
 msgctxt "formsettingsunit.rsplugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: formsettingsunit.rspopuphidecheatengine
 msgid "Popup/Hide cheat engine"
@@ -2397,7 +2397,7 @@ msgstr ""
 #: foundcodeunit.strclose
 msgctxt "foundcodeunit.strclose"
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: foundlisthelper.rserror
 msgctxt "foundlisthelper.rserror"
@@ -2419,7 +2419,7 @@ msgstr ""
 
 #: frmautoinjectunit.rsautoassembler
 msgid "Auto assembler"
-msgstr ""
+msgstr "Auto Assembleur"
 
 #: frmautoinjectunit.rsceafilter
 msgid "Cheat Engine Assembly (*.CEA)|*.CEA|All Files ( *.* )|*.*"
@@ -2451,7 +2451,7 @@ msgstr ""
 
 #: frmautoinjectunit.rsexecutescript
 msgid "Execute script"
-msgstr ""
+msgstr "Exécuter le Script"
 
 #: frmautoinjectunit.rsfailedallocatingmemoryforthescript
 msgid "Failed allocating memory for the script"
@@ -2483,7 +2483,7 @@ msgstr ""
 
 #: frmautoinjectunit.rsluascript
 msgid "LUA Script"
-msgstr ""
+msgstr "Script LUA"
 
 #: frmautoinjectunit.rsnotallcodeisinjectable
 msgid ""
@@ -2526,7 +2526,7 @@ msgstr ""
 
 #: frmbranchmapperunit.rssaveresultstofile
 msgid "Save results to file"
-msgstr ""
+msgstr "Enregistrer les résultats dans un fichier"
 
 #: frmbranchmapperunit.rsstartmapping
 msgid "Start Mapping"
@@ -2547,7 +2547,7 @@ msgstr ""
 
 #: frmchangedaddressescommonalityscannerunit.rsshowresults
 msgid "Doubleclick to show scanner/results"
-msgstr ""
+msgstr "Double-cliquer pour afficher les résultats"
 
 #: frmcodecavescannerunit.rsclosingthiswindowwillalsostopthescannerareyousure
 msgid "Closing this window will also stop the scanner. Are you sure?"
@@ -2571,7 +2571,7 @@ msgstr ""
 
 #: frmcodefilterunit.rsaddresslist
 msgid "Address List (%d)"
-msgstr ""
+msgstr "Liste d'adresses (%d)"
 
 #: frmcodefilterunit.rsassemblyscanpleasewait
 msgid "Assembly Scan. Please wait"
@@ -2584,7 +2584,7 @@ msgstr ""
 #: frmcodefilterunit.rscodefilter
 msgctxt "frmcodefilterunit.rscodefilter"
 msgid "Code Filter"
-msgstr ""
+msgstr "Filtre de code"
 
 #: frmcodefilterunit.rsfilteringaddresses
 msgid "Filtering addresses"
@@ -2593,7 +2593,7 @@ msgstr ""
 #: frmcodefilterunit.rsno
 msgctxt "frmcodefilterunit.rsno"
 msgid "No"
-msgstr ""
+msgstr "Non"
 
 #: frmcodefilterunit.rsopenanaddressfile
 msgid "Open an address file"
@@ -2619,20 +2619,20 @@ msgstr ""
 #: frmcodefilterunit.rsyes
 msgctxt "frmcodefilterunit.rsyes"
 msgid "Yes"
-msgstr ""
+msgstr "Oui"
 
 #: frmdisassemblyscanunit.rsdone
 msgid "Done"
-msgstr ""
+msgstr "Terminé"
 
 #: frmdisassemblyscanunit.rsdsclose
 msgctxt "frmdisassemblyscanunit.rsdsclose"
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: frmdisassemblyscanunit.rsdsscanerror
 msgid "scan error"
-msgstr ""
+msgstr "Erreur de Scan"
 
 #: frmdissectwindowunit.rsdissectwindows
 msgctxt "frmdissectwindowunit.rsdissectwindows"
@@ -2649,12 +2649,12 @@ msgstr ""
 
 #: frmdissectwindowunit.rsremoved
 msgid "Removed"
-msgstr ""
+msgstr "Supprimé"
 
 #: frmenumeratedllsunit.rsnothingfound
 msgctxt "frmenumeratedllsunit.rsnothingfound"
 msgid "nothing found"
-msgstr ""
+msgstr "Rien n'a été trouvé"
 
 #: frmexceptionregionlistunit.rsconfirmdeleteregion
 msgid "Are you sure you wish to remove the range %s?"
@@ -2662,7 +2662,7 @@ msgstr ""
 
 #: frmexceptionregionlistunit.rseraselistquestion
 msgid "Are you sure the erase the list?"
-msgstr ""
+msgstr "Voules-vous vraiment supprimer la liste ?"
 
 #: frmexetrainergeneratorunit.rsarchive
 msgid " ARCHIVE:"
@@ -2679,7 +2679,7 @@ msgstr ""
 #: frmexetrainergeneratorunit.rsdefault
 msgctxt "frmexetrainergeneratorunit.rsdefault"
 msgid "Default"
-msgstr ""
+msgstr "Défaut"
 
 #: frmexetrainergeneratorunit.rsfailureonwriting
 msgid "failure on writing"
@@ -2696,7 +2696,7 @@ msgstr ""
 #: frmexetrainergeneratorunit.rsgenerate
 msgctxt "frmexetrainergeneratorunit.rsgenerate"
 msgid "Generate"
-msgstr ""
+msgstr "Générer"
 
 #: frmexetrainergeneratorunit.rsiconupdateerror
 msgid "icon update error"
@@ -2727,7 +2727,7 @@ msgstr ""
 #: frmexetrainergeneratorunit.rssaving
 msgctxt "frmexetrainergeneratorunit.rssaving"
 msgid "Saving..."
-msgstr ""
+msgstr "Sauvegarde..."
 
 #: frmexetrainergeneratorunit.rsthetrainerhasbeensuccessfullygenerated
 msgid "The trainer has been successfully generated"
@@ -2784,7 +2784,7 @@ msgstr "Stop"
 #: frmfindstaticsunit.strstopping
 msgctxt "frmfindstaticsunit.strstopping"
 msgid "Stopping..."
-msgstr ""
+msgstr "Arrêt..."
 
 #: frmfloatingpointpanelunit.rsfppextended
 msgid "Extended (default)"
@@ -2909,11 +2909,11 @@ msgstr ""
 
 #: frmluaengineunit.rserror
 msgid "Script Error"
-msgstr ""
+msgstr "Erreur de Script"
 
 #: frmluaengineunit.rsleerrorinline
 msgid "Error in line "
-msgstr ""
+msgstr "Erreur à la ligne "
 
 #: frmluaengineunit.rsleonlyonescriptcanbedebuggedatatimeetc
 msgid "Only one script can be debugged at a time. Continue executing this script without the debugger?"
@@ -2931,7 +2931,7 @@ msgstr ""
 #: frmluaengineunit.rsluaengine
 msgctxt "frmluaengineunit.rsluaengine"
 msgid "Lua Engine"
-msgstr ""
+msgstr "Moteur LUA"
 
 #: frmmemoryallochandlerunit.rsevent1failure
 msgid "Event1 failure:"
@@ -3150,17 +3150,17 @@ msgstr ""
 
 #: frmrescanpointerunit.rsrpfirstoffset
 msgid "First offset"
-msgstr ""
+msgstr "Premier Offset"
 
 #: frmrescanpointerunit.rsrpiplist
 msgctxt "frmrescanpointerunit.rsrpiplist"
 msgid "IP List"
-msgstr ""
+msgstr "Liste des IP"
 
 #: frmrescanpointerunit.rsrplastoffset
 msgctxt "frmrescanpointerunit.rsrplastoffset"
 msgid "Last offset"
-msgstr ""
+msgstr "Dernier Offset"
 
 #: frmrescanpointerunit.rsrpthefunction
 msgid "The function %s(base, offsets, target) has not yet been defined. Please define it first"
@@ -3168,12 +3168,12 @@ msgstr ""
 
 #: frmrescanpointerunit.rsrpusesavedpointermap
 msgid "Use saved pointermap: "
-msgstr ""
+msgstr "Utiliser une Pointermap sauvegardée : "
 
 #: frmrescanpointerunit.rsrpusesavedpointermap2
 msgctxt "frmrescanpointerunit.rsrpusesavedpointermap2"
 msgid "Use saved pointermap"
-msgstr ""
+msgstr "Utiliser une Pointermap sauvegardée"
 
 #: frmresumepointerscanunit.rsentertheaddressthisscanshouldlookfor
 msgid "Enter the address this scan should look for"
@@ -3181,7 +3181,7 @@ msgstr ""
 
 #: frmresumepointerscanunit.rsnewpointermap
 msgid "New pointermap"
-msgstr ""
+msgstr "Nouvelle Pointermap"
 
 #: frmresumepointerscanunit.rsrpsentertheipaddressestonotifyexplicitly
 msgctxt "frmresumepointerscanunit.rsrpsentertheipaddressestonotifyexplicitly"
@@ -3191,11 +3191,11 @@ msgstr ""
 #: frmresumepointerscanunit.rsrpsiplist
 msgctxt "frmresumepointerscanunit.rsrpsiplist"
 msgid "IP List"
-msgstr ""
+msgstr "Liste des IP"
 
 #: frmresumepointerscanunit.rsrpswasnotfound
 msgid " was not found"
-msgstr ""
+msgstr " est introuvable"
 
 #: frmsavememoryregionunit.rsisnotavalidaddress
 msgctxt "frmsavememoryregionunit.rsisnotavalidaddress"
@@ -3232,7 +3232,7 @@ msgstr ""
 
 #: frmsnapshothandlerunit.rsshfunctions
 msgid " Function(s): "
-msgstr ""
+msgstr " Fonction(s) : "
 
 #: frmsnapshothandlerunit.rsshlockandaddtostructuredissect
 msgctxt "frmsnapshothandlerunit.rsshlockandaddtostructuredissect"
@@ -3257,11 +3257,11 @@ msgstr ""
 #: frmsnapshothandlerunit.rsshview
 msgctxt "frmsnapshothandlerunit.rsshview"
 msgid "View"
-msgstr ""
+msgstr "Vue"
 
 #: frmsortpointerlistunit.rstimeleft
 msgid "Estimated time left"
-msgstr ""
+msgstr "Temps restant estimé"
 
 #: frmstackviewunit.rslockandaddtostructuredissect
 msgctxt "frmstackviewunit.rslockandaddtostructuredissect"
@@ -3294,7 +3294,7 @@ msgstr ""
 
 #: frmstringmapunit.rserror
 msgid "Error="
-msgstr ""
+msgstr "Erreur = "
 
 #: frmstringmapunit.rsgenerateregexprenginefailed
 msgid "GenerateRegExprEngine failed"
@@ -3331,7 +3331,7 @@ msgstr "Voulez-vous vraiment commencer un nouveau Scan ?"
 #: frmstringpointerscanunit.rsgeneratedscanning
 msgctxt "frmstringpointerscanunit.rsgeneratedscanning"
 msgid "Generated. Scanning..."
-msgstr ""
+msgstr "Généré. Scan en cours..."
 
 #: frmstringpointerscanunit.rsgeneratingstringmap
 msgctxt "frmstringpointerscanunit.rsgeneratingstringmap"
@@ -3366,7 +3366,7 @@ msgstr ""
 #: frmstringpointerscanunit.rsspsuexception
 msgctxt "frmstringpointerscanunit.rsspsuexception"
 msgid "Exception:"
-msgstr ""
+msgstr "Exception :"
 
 #: frmstringpointerscanunit.rsspsufound
 msgctxt "frmstringpointerscanunit.rsspsufound"
@@ -3391,17 +3391,17 @@ msgstr ""
 #: frmstringpointerscanunit.rsspsuoffset
 msgctxt "frmstringpointerscanunit.rsspsuoffset"
 msgid "Offset "
-msgstr ""
+msgstr "Offset "
 
 #: frmstringpointerscanunit.rsspsurescan
 msgctxt "frmstringpointerscanunit.rsspsurescan"
 msgid "Rescan"
-msgstr ""
+msgstr "Rescan"
 
 #: frmstringpointerscanunit.rsspsuscandonefound
 msgctxt "frmstringpointerscanunit.rsspsuscandonefound"
 msgid "Scan done! Found "
-msgstr ""
+msgstr "Scan terminé ! Trouvé"
 
 #: frmstringpointerscanunit.rsstop
 msgctxt "frmstringpointerscanunit.rsstop"
@@ -3426,7 +3426,7 @@ msgstr "Voulez-vous vraiment commencer un nouveau Scan ?"
 #: frmstructurecompareunit.rsgeneratedscanning
 msgctxt "frmstructurecompareunit.rsgeneratedscanning"
 msgid "Generated. Scanning..."
-msgstr ""
+msgstr "Généré. Scan en cours..."
 
 #: frmstructurecompareunit.rsgeneratingstringmap
 msgctxt "frmstructurecompareunit.rsgeneratingstringmap"
@@ -3494,7 +3494,7 @@ msgstr ""
 #: frmstructurecompareunit.rsspsuexception
 msgctxt "frmstructurecompareunit.rsspsuexception"
 msgid "Exception:"
-msgstr ""
+msgstr "Exception :"
 
 #: frmstructurecompareunit.rsspsufound
 msgctxt "frmstructurecompareunit.rsspsufound"
@@ -3523,12 +3523,12 @@ msgstr ""
 #: frmstructurecompareunit.rsspsuoffset
 msgctxt "frmstructurecompareunit.rsspsuoffset"
 msgid "Offset "
-msgstr ""
+msgstr "Offset "
 
 #: frmstructurecompareunit.rsspsurescan
 msgctxt "frmstructurecompareunit.rsspsurescan"
 msgid "Rescan"
-msgstr ""
+msgstr "Rescan"
 
 #: frmstructurecompareunit.rsspsuscandonefound
 msgctxt "frmstructurecompareunit.rsspsuscandonefound"
@@ -3624,19 +3624,19 @@ msgstr ""
 
 #: frmthreadlistunit.rstl2bytes
 msgid "2 bytes"
-msgstr ""
+msgstr "2 bytes"
 
 #: frmthreadlistunit.rstl4bytes
 msgid "4 bytes"
-msgstr ""
+msgstr "4 bytes"
 
 #: frmthreadlistunit.rstl8bytes
 msgid "8 bytes"
-msgstr ""
+msgstr "8 bytes"
 
 #: frmthreadlistunit.rstlaccess
 msgid "Access"
-msgstr ""
+msgstr "Accès"
 
 #: frmthreadlistunit.rstlchangevalue
 msgctxt "frmthreadlistunit.rstlchangevalue"
@@ -3683,7 +3683,7 @@ msgstr ""
 
 #: frmultimap2unit.rscpu
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: frmultimap2unit.rsdasherror
 msgid " -error"
@@ -3719,7 +3719,7 @@ msgstr ""
 
 #: frmultimap2unit.rsmodulelist
 msgid "Module list"
-msgstr ""
+msgstr "Liste des modules"
 
 #: frmultimap2unit.rsonlyforintelcpus
 msgid "Sorry, but Ultimap2 only works on Intel CPU's"
@@ -3727,7 +3727,7 @@ msgstr ""
 
 #: frmultimap2unit.rspaused
 msgid "Paused"
-msgstr ""
+msgstr "Pause"
 
 #: frmultimap2unit.rsprocessingdata
 msgid ""
@@ -8633,12 +8633,12 @@ msgstr ""
 
 #: tformdifferentbitsize.ohnoyoufoundme1.caption
 msgid "Oh no! You found me!!!"
-msgstr ""
+msgstr "Oh non ! Tu m'as trouvé !!!"
 
 #: tformfoundcodelistextra.button1.caption
 msgctxt "TFORMFOUNDCODELISTEXTRA.BUTTON1.CAPTION"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: tformfoundcodelistextra.caption
 msgid "Extra info"
@@ -8646,7 +8646,7 @@ msgstr ""
 
 #: tformfoundcodelistextra.copyaddresstoclipboard1.caption
 msgid "Copy info to clipboard"
-msgstr ""
+msgstr "Copier les infos dans le Presse-papier"
 
 #: tformfoundcodelistextra.copyguesstoclipboard1.caption
 msgid "Copy easy guess to clipboard"
@@ -8709,19 +8709,19 @@ msgstr ""
 
 #: tformfoundcodelistextra.lblrax.caption
 msgid "EAX=DDDDDDDD"
-msgstr ""
+msgstr "EAX=DDDDDDDD"
 
 #: tformfoundcodelistextra.lblrbp.caption
 msgid "EBP=DDDDDDDD"
-msgstr ""
+msgstr "EBP=DDDDDDDD"
 
 #: tformfoundcodelistextra.lblrbx.caption
 msgid "EBX=DDDDDDDD"
-msgstr ""
+msgstr "EBX=DDDDDDDD"
 
 #: tformfoundcodelistextra.lblrcx.caption
 msgid "ECX=DDDDDDDD"
-msgstr ""
+msgstr "ECX=DDDDDDDD"
 
 #: tformfoundcodelistextra.lblrdi.caption
 msgid "EDI=DDDDDDDD"
@@ -8760,7 +8760,7 @@ msgstr ""
 #: tformfoundcodelistextra.sbshowstack.caption
 msgctxt "tformfoundcodelistextra.sbshowstack.caption"
 msgid "S"
-msgstr ""
+msgstr "S"
 
 #: tformfoundcodelistextra.sbshowstack.hint
 msgctxt "tformfoundcodelistextra.sbshowstack.hint"
@@ -8779,7 +8779,7 @@ msgstr "Annuler"
 
 #: tformhotkey.caption
 msgid "Change hotkey"
-msgstr ""
+msgstr "Changer le raccourci"
 
 #: tformhotkey.label1.caption
 msgid "Press the new hotkey combination in below:"
@@ -8855,7 +8855,7 @@ msgstr ""
 
 #: tformsettings.aboutlabel.caption
 msgid "About CE"
-msgstr ""
+msgstr "A propos de Cheat Engine"
 
 #: tformsettings.askforreplacewithnops.caption
 msgid "Ask for replace with nop"
@@ -8908,7 +8908,7 @@ msgstr "Supprimer"
 
 #: tformsettings.btntoolnew.caption
 msgid "New"
-msgstr ""
+msgstr "Nouveau"
 
 #: tformsettings.button4.caption
 msgid "Add new"
@@ -9217,30 +9217,30 @@ msgstr ""
 #: tformsettings.edtdefault.text
 msgctxt "TFORMSETTINGS.EDTDEFAULT.TEXT"
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: tformsettings.edtluacollecttimer.text
 msgctxt "tformsettings.edtluacollecttimer.text"
 msgid "60"
-msgstr ""
+msgstr "60"
 
 #: tformsettings.edtluamincollectsize.text
 msgid "200"
-msgstr ""
+msgstr "200"
 
 #: tformsettings.edtstacksize.text
 msgctxt "tformsettings.edtstacksize.text"
 msgid "4096"
-msgstr ""
+msgstr "4096"
 
 #: tformsettings.edtwritelogsize.text
 msgid "250"
-msgstr ""
+msgstr "250"
 
 #: tformsettings.extra.caption
 msgctxt "TFORMSETTINGS.EXTRA.CAPTION"
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 #: tformsettings.gbunexpectedexceptionhandling.caption
 msgid "When CE starts default behaviour for unexpected breakpoints"
