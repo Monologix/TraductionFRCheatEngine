@@ -15,14 +15,17 @@ Pour m'aider à proposer une traduction encore meilleure, vous pouvez me contact
 
 By KéKéCoRe! / Monologix
 
-Version 0.1 : 
+Version 0.1  (19/04/2020) :
 - Traduction de l'interface de base affichée directement à l'utilisateur
 - Correction de la traduction des tutoriels effectués par KéKéCoRe!
 
-Version 0.2 :
+Version 0.2 (23/04/2020) :
 - Traduction de nouveaux éléments d'interface
 - Correction de plusieurs erreurs de traduction
 
-Version 0.3
-- Correction de traductions
-- Plusieurs centaines de nouveaux éléments d'interface traduits
+Version 0.3 (24/04/2020) :
+- Traduction de plusieurs centaines éléments d'interface
+- Correction d'un grand nombre d'erreurs de traduction
+
+Version 0.4 (30/04/2020) :
+- Traduction d'éléments d'interface
